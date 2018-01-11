@@ -1,4 +1,4 @@
-<h1 style = "color:#0a0b6f"> <b> Yong Peng's CV </b>      <span style="font-size:10px"> http://yongpeng.info  &nbsp;&nbsp; or  &nbsp;&nbsp;  https://bigdataage.github.io </span> </h1> 
+<h1 style = "color:#0a0b6f"> <b> Yong Peng's CV </b></h1> 
 
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, P.R. China.</p>
@@ -7,15 +7,15 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; My GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (Part of my source codes) </p>            
                  
                    
-<h3><b style = "color:#0a0b6f">2. Research Interests</b></h3>
+<h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics, single-cell omics, genetic and epigenetic regulatory networks.</p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Gametogenesis and embryogenesis.</p>         
                       
                   
-<h3><b style = "color:#0a0b6f">3. Experience</b></h3>               
+<h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3>               
                      
                              
-<h3><b style = "color:#0a0b6f">4. Education</b></h3>
+<h3><b style = "color:#0a0b6f"> 4. Education </b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~current,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, China. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc., &nbsp; 2010.09~2013.07,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, China. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc., &nbsp; 2006.09~2010.07,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, China. </p>             
@@ -147,7 +147,7 @@ Bioinformatics, 29(6), 678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23
 <p> &nbsp;&nbsp;&nbsp;&nbsp; English Blog: http://yongpeng.org </p>               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Chinese Blog: http://blog.sciencenet.cn/u/bigdataage </p>       
 
-----------------------------------------------------------------------------------
-                                           
-                                                            
+----------------------------------------------------------------------------------                            
+----------------------------------------------------------------------------------                                                                   
+                                                                                    
 
