@@ -1,15 +1,6 @@
-# Yong Peng's CV                 
-### http://yongpeng.info/   or    https://bigdataage.github.io
-                                                                           
- 
-                      
----
-layout: page_title
-title: My Curriculum Vitae (Yong Peng's CV)
-titlename: Yong Peng CV
----
+<h1 style = "color:#0a0b6f"><b> Yong Peng's CV </b></h1>       <h5><b> http://yongpeng.info   or    https://bigdataage.github.io      </b></h5> 
 
-<h3 style = "color:#0a0b6f"><b>1. About Me</b></h3>
+<h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, P.R. China.</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
