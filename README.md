@@ -1,17 +1,10 @@
-# Yong Peng's CV
-
-
-
-
-<h3 style = "color:#0a0b6f"><b>1. About Me</b></h3>
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, P.R. China.</p>
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; My GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (Part of my source codes) </p>            
+# Yong Peng's CV (yongpeng.info)
+                       
+## 1. About Me 
+## Place of Birth:  Yibin of Sichuan Province, P.R. China.
+## Citizenship: China 
+## Email: yongp@outlook.com 
+## My GitHub: https://github.com/CTLife (Part of my source codes)             
 
                  
 
