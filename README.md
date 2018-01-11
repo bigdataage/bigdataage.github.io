@@ -1,4 +1,4 @@
-<h1 style = "color:#0a0b6f"><b> Yong Peng's CV </b></h1>       <h5><b> http://yongpeng.info   or    https://bigdataage.github.io      </b></h5> 
+<h1 style = "color:#0a0b6f"> <b> Yong Peng's CV </b>      <p> http://yongpeng.info  &nbsp;&nbsp; or  &nbsp;&nbsp;  https://bigdataage.github.io </p> </h1> 
 
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, P.R. China.</p>
@@ -9,7 +9,7 @@
                    
 <h3><b style = "color:#0a0b6f">2. Research Interests</b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics, single-cell omics, genetic and epigenetic regulatory networks.</p>   
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Gametogenesis, fertilization and early embryogenesis.</p>         
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Gametogenesis and embryogenesis.</p>         
                       
                   
 <h3><b style = "color:#0a0b6f">3. Experience</b></h3>               
@@ -27,8 +27,7 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 
 <h3><b style = "color:#0a0b6f"> 5. Skill  </b></h3>  
 <b> &nbsp;&nbsp;&nbsp;&nbsp; 7 Levels from Newbie 1 to God Level 7: <br> </b>     
-<b> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie,&nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, </b>   
-<b> &nbsp; 5:Very Professional, &nbsp;   6:Top 100 Experts,&nbsp;  7:God Level (Surpassing human's limit). <br> <br> </b>         
+<b> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie,&nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp; 5:Very Professional, &nbsp;   6:Top 10 Experts,&nbsp;  7:God Level (Surpassing human's limit). <br> <br> </b>         
 <table border="2"  align="center">
   <tr>              
     <th> &nbsp; Skill &nbsp; </th>
