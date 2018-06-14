@@ -27,8 +27,8 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 
 <h3><b style = "color:#0a0b6f"> 5. Skill  </b></h3>  
 <b> &nbsp;&nbsp;&nbsp;&nbsp; 7 Levels from Newbie 1 to God Level 7: <br> </b>     
-<b> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie,&nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  <br> 
-    5:Very Professional, &nbsp;   6:Top 10 Experts,&nbsp;  7:God Level (Surpassing human's limit). <br> <br> </b>         
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie,&nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp;    <br> 
+    &nbsp;&nbsp;&nbsp;&nbsp; 6:Top 10 Experts,&nbsp;  7:God Level (Surpassing human's limit). <br> <br> </p>         
 <table border="2"  align="center">
   <tr>              
     <th> &nbsp; Skill &nbsp; </th>
