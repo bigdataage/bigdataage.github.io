@@ -8,8 +8,8 @@
                  
                    
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics, single-cell omics, genetic and epigenetic regulatory networks.</p>   
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Gametogenesis and embryogenesis.</p>         
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics and high-throughput sequencing, genetic and epigenetic regulatory networks.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Single-cell omics, gametogenesis and embryogenesis.</p>         
                       
                   
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3>               
@@ -147,7 +147,17 @@ Bioinformatics, 29(6), 678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23
 <h3><b style = "color:#0a0b6f"> 7. My Blog </b></h3>                                                                                                               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; English Blog: <a href="http://yongpeng.org">http://yongpeng.org</a> </p>               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage">http://blog.sciencenet.cn/u/bigdataage</a> </p>       
+                      
+                                                                   
+<h3><b style = "color:#0a0b6f"> 8. Conference Abstract </b></h3>   
 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. Yong Peng, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells. The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. Yong Peng, Qian-Zhong Li*. Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization. The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, Yong Peng. Sequence-dependent geometric flexibility of core promoter regions in human genome. The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
+</p>       
+                               
 ----------------------------------------------------------------------------------                            
 ----------------------------------------------------------------------------------                                                                   
                                                                                     
