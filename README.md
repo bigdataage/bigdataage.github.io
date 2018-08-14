@@ -144,19 +144,20 @@ Bioinformatics, 29(6), 678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23
 </p>
                       
                                             
-<h3><b style = "color:#0a0b6f"> 7. My Blog </b></h3>                                                                                                               
+<h3><b style = "color:#0a0b6f"> 7. My Blog </b></h3>                                                                                     <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>
+                                                                   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; English Blog: <a href="http://yongpeng.org">http://yongpeng.org</a> </p>               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage">http://blog.sciencenet.cn/u/bigdataage</a> </p>       
                       
                                                                    
 <h3><b style = "color:#0a0b6f"> 8. Conference Abstract </b></h3>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. Yong Peng, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells. The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. Yong Peng, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. <font color="#2E8B57"> H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells.</font> The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. Yong Peng, Qian-Zhong Li*. Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization. The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. Yong Peng, Qian-Zhong Li*. <font color="#2E8B57"> Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, Yong Peng. Sequence-dependent geometric flexibility of core promoter regions in human genome. The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
-</p>       
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, Yong Peng. <font color="#2E8B57"> Sequence-dependent geometric flexibility of core promoter regions in human genome.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
+      
                                
 ----------------------------------------------------------------------------------                            
 ----------------------------------------------------------------------------------                                                                   
