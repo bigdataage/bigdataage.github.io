@@ -13,10 +13,10 @@
                       
                   
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3>               
-                     
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~now,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>; <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction, Ministry of Education</a> and <a href="http://www.puh3.net.cn/">Peking University Third Hospital</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, China. </p>                     
                              
 <h3><b style = "color:#0a0b6f"> 4. Education </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, China. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, China. (2013.07-2013.12,Rotation; 2014.01-2017.04, Aibin He Group; 2017.05-2019.01, Jie Qiao Group) </p> 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc., &nbsp; 2010.09~2013.07,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, China. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc., &nbsp; 2006.09~2010.07,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, China. </p>             
 <br>
@@ -30,7 +30,7 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 <b> &nbsp;&nbsp;&nbsp;&nbsp; 7 Levels from Newbie 1 to God Level 7: <br> </b>     
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie,&nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp;    <br> 
     &nbsp;&nbsp;&nbsp;&nbsp; 6:Top 10 Experts,&nbsp;  7:God Level (Surpassing human's limit). <br> <br> </p>         
-<table border="2"  align="center">
+<table border="2"  align="center"> 
   <tr>              
     <th> &nbsp; Skill &nbsp; </th>
     <th> &nbsp; Level &nbsp;  </th> 
@@ -114,9 +114,9 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 <h3><b style = "color:#0a0b6f"> 6. Full Publications </b></h3>                 
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [8]. Wei Chen#, <font color="#2E8B57">Yong Peng#</font>, Xinyi Ma#, Yang Wang*, Liying Yan*, Jie Qiao*. Diverse DNA Methylomic Consequences Induced by the Different Procedures of Human Assisted Reproduction in the Offspring. (In preparation)   </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [8]. Wei Chen^, <font color="#2E8B57">Yong Peng^</font>, Xinyi Ma^, Yang Wang*, Liying Yan*, Jie Qiao*. Diverse DNA Methylomic Consequences Induced by the Different Procedures of Human Assisted Reproduction in the Offspring. (In preparation)   </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. <font color="#2E8B57">Yong Peng#</font>,  Zhiqiang Yan#,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*. DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. (In preparation)   </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. <font color="#2E8B57">Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*. DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. (In preparation)   </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <font color="#2E8B57">Yong Peng</font>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. Nature Cell Biology, DOI:10.1038/s41556-018-0238-5.  </p>
 
