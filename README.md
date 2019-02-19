@@ -6,9 +6,9 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P.R. China. </a> </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Age: 33 </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (Part of my source codes) 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Mobile Phone: +86-18500023322 </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Age: 33 </p>
 </p>            
                  
                    
