@@ -13,8 +13,8 @@
                  
                    
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics and high-throughput sequencing, genetic and epigenetic regulatory networks.</p>   
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Single-cell omics, gametogenesis and embryogenesis.</p>         
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Computational epigenetics, high-throughput sequencing, single-cell multi-omics, bioinformatics.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Genetic and epigenetic regulatory networks of gametogenesis and embryogenesis.</p>         
                       
                   
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3>               
