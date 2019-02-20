@@ -8,7 +8,7 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (Part of my source codes) 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Mobile Phone: +86-18500023322 </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Age: 33 </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Age: 32 </p>
 </p>            
                  
                    
@@ -134,7 +134,7 @@ Circulation Research, CIRCRESAHA.117.311212. <a href="https://www.ncbi.nlm.nih.g
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. Shanshan Ai^, <font color="#2E8B57">Yong Peng^</font>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. (2017). 
 <a href="https://elifesciences.org/content/6/e24570">
 EED orchestration of heart maturation through interaction with HDACs is H3K27me3-independent. </a>   
-eLife, 6:e24570. <a href="http://pubmedcentralcanada.ca/pmcc/articles/PMC5400508">PMID:28394251</a>
+eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/">PMID:28394251</a>
 </p>
                  
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [3].  Yong-Chun Zuo*, <font color="#2E8B57">Yong Peng</font>, Li Liu, Wei Chen, Lei Yang*, and Guo-Liang Fan*. (2014).  
