@@ -14,7 +14,7 @@
                  
                    
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Computational epigenetics, high-throughput sequencing, single-cell multi-omics, bioinformatics.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Computational epigenetics, high-throughput DNA/RNA/Protein sequencing, single-cell multi-omics, bioinformatics.</p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Genetic and epigenetic regulatory networks of gametogenesis and embryogenesis.</p>         
                       
                   
