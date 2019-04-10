@@ -9,15 +9,19 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (Part of my source codes) 
 </p>            
                  
-                   
+<br>      
+
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Computational epigenetics, high-throughput DNA/RNA/Protein sequencing, single-cell multi-omics, bioinformatics.</p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Genetic and epigenetic regulatory networks of gametogenesis and embryogenesis.</p>         
                       
-                  
+<br>      
+
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3>               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~now,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a> and <a href="http://www.puh3.net.cn/">Peking University Third Hospital</a>, Beijing, China. </p>                     
-                             
+ 
+ <br>
+           
 <h3><b style = "color:#0a0b6f"> 4. Education </b></h3>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab) </p> 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc., &nbsp; 2010.09~2013.07,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, Hohhot, China. </p>
@@ -28,7 +32,8 @@
 multi-information fusion and multi-label ensemble classifier</a>. @ <a href="http://wlxy.imu.edu.cn/info/1305/3351.htm"> Qianzhong Li Group </a>. </p>                
 <p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ Tao Jin Group. </p>
 
-
+<br>       
+         
 <h3><b style = "color:#0a0b6f"> 5. Skill  </b></h3>  
 <b> &nbsp;&nbsp;&nbsp;&nbsp; 7 Levels from Newbie 1 to God Level 7: <br> </b>     
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie,&nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp;    <br> 
@@ -113,7 +118,8 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
   </tr>
 </table>                                 
                        
-                                 
+<br>     
+               
 <h3><b style = "color:#0a0b6f"> 6. Full Publications </b></h3>                 
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>
 
@@ -155,23 +161,25 @@ PreDNA: accurate prediction of DNA-binding sites in proteins by integrating sequ
 Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23335013">PMID:23335013</a>
 </p>
                       
-                                            
+<br>     
+                
 <h3><b style = "color:#0a0b6f"> 7. Blog </b></h3>                                                                         
                                                                    
 <p> &nbsp;&nbsp;&nbsp;&nbsp; English Blog: <a href="http://yongpeng.org">http://yongpeng.org</a> </p>               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage">http://blog.sciencenet.cn/u/bigdataage</a> </p>       
                       
-                                                                   
+<br>        
+               
 <h3><b style = "color:#0a0b6f"> 8. Conference Abstract </b></h3>                  
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>     
                                         
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. <font color="#2E8B57"> Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*.  <font color="#00BFFF"> DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. </font> The 8th Chinese Conference on Bioinformatics & Systems Biology, Macao, P.R. China, 2018.10.21-10.24.  </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. <font color="#2E8B57"> Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*.  <font color="#01A9DB"> DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. </font> The 8th Chinese Conference on Bioinformatics & Systems Biology, Macao, P.R. China, 2018.10.21-10.24.  </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. <font color="#2E8B57"> Yong Peng</font>, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. <font color="#00BFFF"> H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells.</font> The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. <font color="#2E8B57"> Yong Peng</font>, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. <font color="#01A9DB"> H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells.</font> The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. <font color="#2E8B57"> Yong Peng</font>, Qian-Zhong Li*. <font color="#00BFFF"> Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. <font color="#2E8B57"> Yong Peng</font>, Qian-Zhong Li*. <font color="#01A9DB"> Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, <font color="#2E8B57"> Yong Peng</font>. <font color="#00BFFF"> Sequence-dependent geometric flexibility of core promoter regions in human genome.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, <font color="#2E8B57"> Yong Peng</font>. <font color="#01A9DB"> Sequence-dependent geometric flexibility of core promoter regions in human genome.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
       
                                
 ----------------------------------------------------------------------------------                            
