@@ -1,6 +1,6 @@
 <h1 style = "color:#0a0b6f"> <b> Yong Peng's CV (彭勇的个人简历) </b>  <span style="font-size:20px">   </span>    </h1> 
-<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-1.png"    height="320"  style="float:right;"  />   
-<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-2.png"    height="280"  style="float:right;"  />  
+<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-1.png"    height="350"  style="float:right;"  />   
+<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-2.png"    height="300"  style="float:right;"  />  
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng (彭勇) </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Male </p>         
