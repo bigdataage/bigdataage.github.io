@@ -2,7 +2,7 @@
 
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
 <p style="width:400px;"> 
-<img src="https://github.com/bigdataage/bigdataage.github.io/blob/master/DSC_9687.JPG" align="right" width="120" hspace="5" vspace="5">  
+<img src="https://github.com/bigdataage/bigdataage.github.io/blob/master/yongpeng-final.png" align="right" width="300" hspace="5" vspace="5">  
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng (彭勇) </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Male </p>         
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P.R. China. </a> </p>
