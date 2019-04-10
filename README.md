@@ -19,13 +19,13 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~now,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a> and <a href="http://www.puh3.net.cn/">Peking University Third Hospital</a>, Beijing, China. </p>                     
                              
 <h3><b style = "color:#0a0b6f"> 4. Education </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12, Rotation; 2014.01-2017.04, Aibin He Lab; 2017.05-2019.01, Jie Qiao Lab) </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab) </p> 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc., &nbsp; 2010.09~2013.07,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, Hohhot, China. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc., &nbsp; 2006.09~2010.07,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, Haerbin, China. </p>             
 <br>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; PhD. Dissertation (Chinese): Epigenetic Outcomes of Assisted Reproduction in the Offspring. @ <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc. thesis (Chinese): <a href="http://cdmd.cnki.com.cn/Article/CDMD-10126-1013293069.htm"> Predicting subnuclear location of proteins and subcellular location of ncRNAs based on 
-multi-information fusion and multi-label ensemble classifier</a>. @ <a href="http://202.207.14.87:8032/bioinformation/index.asp"> Qianzhong Li Group </a>. </p>                
+multi-information fusion and multi-label ensemble classifier</a>. @ <a href="http://wlxy.imu.edu.cn/info/1305/3351.htm"> Qianzhong Li Group </a>. </p>                
 <p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ Tao Jin Group. </p>
 
 
@@ -123,7 +123,7 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[7]</font>. <font color="#2E8B57">Yong Peng</font>, Liying Yan*, Jie Qiao*. PipiDABS: A Comprehensive and User-Friendly Pipeline for Downstream DNA Methylation Analysis of High-throughput Bisulfite Sequencing Data. (In preparation)   </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <font color="#2E8B57">Yong Peng</font>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319–327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <font color="#2E8B57">Yong Peng</font>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Shanshan Ai^, Xianhong Yu^, Yumei Li^, <font color="#2E8B57">Yong Peng</font>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, Aibin He*. 2017. 
 <a href="http://circres.ahajournals.org/content/early/2017/05/16/CIRCRESAHA.117.311212">
@@ -165,13 +165,13 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
 <h3><b style = "color:#0a0b6f"> 8. Conference Abstract </b></h3>                  
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>     
                                         
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. Yong Peng^,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*.  <font color="#2E8B57"> DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. </font> The 8th Chinese Conference on Bioinformatics & Systems Biology, Macao, P.R. China, 2018.10.21-10.24.  </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. <font color="#2E8B57"> Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*.  <font color="#00BFFF"> DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. </font> The 8th Chinese Conference on Bioinformatics & Systems Biology, Macao, P.R. China, 2018.10.21-10.24.  </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. Yong Peng, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. <font color="#2E8B57"> H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells.</font> The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. <font color="#2E8B57"> Yong Peng</font>, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. <font color="#00BFFF"> H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells.</font> The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. Yong Peng, Qian-Zhong Li*. <font color="#2E8B57"> Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. <font color="#2E8B57"> Yong Peng</font>, Qian-Zhong Li*. <font color="#00BFFF"> Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, Yong Peng. <font color="#2E8B57"> Sequence-dependent geometric flexibility of core promoter regions in human genome.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, <font color="#2E8B57"> Yong Peng</font>. <font color="#00BFFF"> Sequence-dependent geometric flexibility of core promoter regions in human genome.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
       
                                
 ----------------------------------------------------------------------------------                            
