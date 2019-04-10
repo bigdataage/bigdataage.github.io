@@ -117,11 +117,11 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 <h3><b style = "color:#0a0b6f"> 6. Full Publications </b></h3>                 
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#2E8B57">[9]</font>. Wei Chen^, <font color="#2E8B57">Yong Peng^</font>, Xinyi Ma^, Yang Wang*, Liying Yan*, Jie Qiao*. Assisted reproductive technologies confer aberrant epigenome of the offspring. (Submitted to New England Journal of Medicine)   </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[9]</font>. Wei Chen^, <font color="#2E8B57">Yong Peng^</font>, Xinyi Ma^, Yang Wang*, Liying Yan*, Jie Qiao*. Assisted reproductive technologies confer aberrant epigenome of the offspring. (Submitted to New England Journal of Medicine)   </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#2E8B57">[8]</font>. <font color="#2E8B57">Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*. DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. (In preparation)   </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[8]</font>. <font color="#2E8B57">Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*. DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. (In preparation)   </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#2E8B57">[7]</font>. <font color="#2E8B57">Yong Peng</font>, Liying Yan*, Jie Qiao*. PipiDABS: A Comprehensive and User-Friendly Pipeline for Downstream DNA Methylation Analysis of High-throughput Bisulfite Sequencing Data. (In preparation)   </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[7]</font>. <font color="#2E8B57">Yong Peng</font>, Liying Yan*, Jie Qiao*. PipiDABS: A Comprehensive and User-Friendly Pipeline for Downstream DNA Methylation Analysis of High-throughput Bisulfite Sequencing Data. (In preparation)   </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <font color="#2E8B57">Yong Peng</font>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. Nature Cell Biology, DOI:10.1038/s41556-018-0238-5.  </p>
 
@@ -131,7 +131,7 @@ Divergent Requirements for EZH1 in Heart Development Versus Regeneration. </a>
 Circulation Research, CIRCRESAHA.117.311212. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28512107">PMID:28512107</a>
 </p>
                                                                                        
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#2E8B57">[4]</font>. Shanshan Ai^, <font color="#2E8B57">Yong Peng^</font>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. (2017). 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[4]</font>. Shanshan Ai^, <font color="#2E8B57">Yong Peng^</font>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. (2017). 
 <a href="https://elifesciences.org/content/6/e24570">
 EED orchestration of heart maturation through interaction with HDACs is H3K27me3-independent. </a>   
 eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/">PMID:28394251</a>
@@ -156,7 +156,7 @@ Bioinformatics, 29(6), 678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23
 </p>
                       
                                             
-<h3><b style = "color:#0a0b6f"> 7. My Blog </b></h3>                                                                         
+<h3><b style = "color:#0a0b6f"> 7. Blog </b></h3>                                                                         
                                                                    
 <p> &nbsp;&nbsp;&nbsp;&nbsp; English Blog: <a href="http://yongpeng.org">http://yongpeng.org</a> </p>               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage">http://blog.sciencenet.cn/u/bigdataage</a> </p>       
@@ -165,7 +165,7 @@ Bioinformatics, 29(6), 678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23
 <h3><b style = "color:#0a0b6f"> 8. Conference Abstract </b></h3>                  
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>     
                                         
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. Yong Peng#,  Zhiqiang Yan#,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*.  <font color="#2E8B57"> DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. </font> The 8th Chinese Conference on Bioinformatics & Systems Biology, Macao, P.R. China, 2018.10.21-10.24.  </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. Yong Peng^,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*.  <font color="#2E8B57"> DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. </font> The 8th Chinese Conference on Bioinformatics & Systems Biology, Macao, P.R. China, 2018.10.21-10.24.  </p>   
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. Yong Peng, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. <font color="#2E8B57"> H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells.</font> The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
 
