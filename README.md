@@ -1,6 +1,6 @@
 <h1 style = "color:#0a0b6f"> <b> Yong Peng's CV (彭勇的个人简历) </b>  <span style="font-size:20px">   </span>    </h1> 
 <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-1.png"    height="350"  style="float:right;"  />   
-<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-2.png"    height="300"  style="float:right;"  />  
+##<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-2.png"    height="300"  style="float:right;"  />  
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng (彭勇) </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Male </p>         
@@ -125,9 +125,9 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 <h3><b style = "color:#0a0b6f"> 6. Full Publications </b></h3>                 
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[9]</font>. Wei Chen^, <font color="#2E8B57">Yong Peng^</font>, Xinyi Ma^, Yang Wang*, Liying Yan*, Jie Qiao*. Assisted reproductive technologies confer aberrant epigenome of the offspring. (Submitted to New England Journal of Medicine)   </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[9]</font>. Wei Chen^, <font color="#2E8B57">Yong Peng^</font>, Xinyi Ma^, Xiaohui Zhu, Yang Wang*, Liying Yan*, Jie Qiao*. Assisted reproductive technologies confer aberrant epigenome of the offspring. (Submitted to the New England Journal of Medicine)   </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[8]</font>. <font color="#2E8B57">Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*. DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. (In preparation)   </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[8]</font>. <font color="#2E8B57">Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*. DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. (In preparation,  <a href="http://www.devomics.org">devomics.org</a> )   </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[7]</font>. <font color="#2E8B57">Yong Peng</font>, Liying Yan*, Jie Qiao*. PipiDABS: A Comprehensive and User-Friendly Pipeline for Downstream DNA Methylation Analysis of High-throughput Bisulfite Sequencing Data. (In preparation)   </p>
 
