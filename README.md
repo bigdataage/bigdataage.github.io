@@ -128,7 +128,7 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[8]</font>. <font color="#2E8B57">Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*. DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. (In preparation,  <a href="http://www.devomics.org">devomics.org</a> )   </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[7]</font>. <font color="#2E8B57">Yong Peng</font>, Liying Yan*, Jie Qiao*. PipiDABS: A Comprehensive and User-Friendly Pipeline for Downstream DNA Methylation Analysis of High-throughput Bisulfite Sequencing Data. (In preparation)   </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[7]</font>. <font color="#2E8B57">Yong Peng</font>, Liying Yan*, Jie Qiao*. PipiDABS: A Comprehensive and User-Friendly Pipeline for Downstream DNA Methylation Analysis of High-throughput Bisulfite Sequencing Data. (In preparation,  <a href="https://github.com/CTLife/PipiDABS">GitHub</a> )   </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <font color="#2E8B57">Yong Peng</font>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
 
