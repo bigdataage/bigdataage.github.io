@@ -1,4 +1,4 @@
-<h1 style = "color:#0a0b6f"> <b> Yong Peng's CV (彭勇的个人简历) </b>  <span style="font-size:20px">   </span>    </h1> 
+<h1 style = "color:#0a0b6f"> <b> Yong Peng's CV </b>  <span style="font-size:20px">   </span>    </h1> 
 <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-2.png"    height="300"  style="float:right;"  />   
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng (彭勇) </p>
@@ -18,8 +18,9 @@
                       
 <br>      
 
-<h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3>               
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~now,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a> and <a href="http://www.puh3.net.cn/">Peking University Third Hospital</a>, Beijing, China. </p>                     
+<h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.12~2019.now,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a> and <a href="http://www.puh3.net.cn/">Peking University Third Hospital</a>, Beijing, China. </p>                     
  
  <br>
            
@@ -170,17 +171,7 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage">http://blog.sciencenet.cn/u/bigdataage</a> </p>       
                       
 <br>        
-               
-<h3><b style = "color:#0a0b6f"> 8. Conference Abstract </b></h3>                  
-<p><b> &nbsp;&nbsp;&nbsp;&nbsp; ^(Co-)first author,  *(Co-)corresponding author </b></p>     
-                                        
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. <font color="#2E8B57"> Yong Peng^</font>,  Zhiqiang Yan^,  Xiaohui Zhu,  Liying Yan*, Jie Qiao*.  <font color="#01A9DB"> DevOmics: A Comprehensive Single-cell Omics Database for Mammalian Gametogenesis and Embryonic Development. </font> The 8th Chinese Conference on Bioinformatics & Systems Biology, Macao, P.R. China, 2018.10.21-10.24.  </p>   
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]. <font color="#2E8B57"> Yong Peng</font>, Shanshan Ai, Chen Li, Xianhong Yu, Yumei Li, Xin Li, Cheng Li, Chuanyun Li, Aibin He*. <font color="#01A9DB"> H3K27me3 mark constrains nucleosome dynamics in nonproliferating cells.</font> The 7th Chinese Conference on Bioinformatics & Systems Biology, Chengdu, P.R. China, 2016.10.06-10.09.  </p>   
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]. <font color="#2E8B57"> Yong Peng</font>, Qian-Zhong Li*. <font color="#01A9DB"> Split amino acid composition and filtered sequence profile markedly improve the prediction accuracy of protein subnuclear localization.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p> 
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Yongchun Zuo*, <font color="#2E8B57"> Yong Peng</font>. <font color="#01A9DB"> Sequence-dependent geometric flexibility of core promoter regions in human genome.</font> The 5th Chinese Conference on Bioinformatics & Systems Biology, Harbin, P.R. China, 2012.08.08-08.10.  </p>               
+      
       
                                
 ----------------------------------------------------------------------------------                            
