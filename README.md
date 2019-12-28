@@ -13,13 +13,11 @@
 <br>      
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Computational epigenetics, high-throughput DNA/RNA/Protein sequencing, single-cell multi-omics, bioinformatics.</p>   
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Genetic and epigenetic regulatory networks of gametogenesis and embryogenesis.</p>         
-                      
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Epigenetic and epitranscriptomic basis of embryogenesis and carcinogenesis by using experimental and computational multi-omics technologies.</p>                              
 <br>      
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.12~2019.now,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.12~now,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a> and <a href="http://www.puh3.net.cn/">Peking University Third Hospital</a>, Beijing, China. </p>                     
  
  <br>
