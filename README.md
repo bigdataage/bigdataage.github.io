@@ -6,7 +6,7 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P. R. China. </a> </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (Part of my source codes for bioinformatics) 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (My source codes for bioinformatics) 
 </p>   
 
                  
@@ -35,9 +35,9 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 <br>       
               
 <h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications </b></h3>                 
-<p><b> &nbsp;&nbsp;&nbsp;&nbsp; (*) First authorship; (^) Senior authorship </b></p>
+<p><b> &nbsp;&nbsp;&nbsp;&nbsp; (^) First authorship; (*) Senior authorship </b></p>
 
-<h3><b style = "color:#0a0b6f"> Selected publications: </b></h3> 
+<p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[1]</font>. Shanshan Ai^, <font color="#2E8B57">Yong Peng^</font>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. 2017. 
 <a href="https://elifesciences.org/content/6/e24570">
@@ -45,7 +45,7 @@ EED orchestration of heart maturation through interaction with HDACs is H3K27me3
 eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/">PMID:28394251</a>
 </p>
 
-<h3><b style = "color:#0a0b6f"> Other publications: </b></h3> 
+<p><b style = "color:#0a0b6f"> Other publications: </b></p> 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <font color="#2E8B57">Yong Peng</font>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. Shanshan Ai^, Xianhong Yu^, Yumei Li^, <font color="#2E8B57">Yong Peng</font>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, Aibin He*. 2017. 
@@ -74,7 +74,7 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
                       
 <br>     
                 
-<h3><b style = "color:#0a0b6f"> 7. Blog </b></h3>                                                                         
+<h3><b style = "color:#0a0b6f"> 6. Blog </b></h3>                                                                         
                                                                    
 <p> &nbsp;&nbsp;&nbsp;&nbsp; English Blog: <a href="http://yongpeng.org">http://yongpeng.org</a> </p>               
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage">http://blog.sciencenet.cn/u/bigdataage</a> </p>       
@@ -83,7 +83,7 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
       
       
          
-<h3><b style = "color:#0a0b6f"> 5. Skill  </b></h3>  
+<h3><b style = "color:#0a0b6f"> 7. Skills  </b></h3>  
 <b> &nbsp;&nbsp;&nbsp;&nbsp; 7 Levels from Newbie 1 to God Level 7: <br> </b>     
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie,&nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp;    <br> 
     &nbsp;&nbsp;&nbsp;&nbsp; 6:Top 10 Experts,&nbsp;  7:God Level (Surpassing human's limit). <br> <br> </p>         
