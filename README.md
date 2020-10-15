@@ -47,15 +47,17 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#DC143C">[1]</font>. Shanshan Ai^, <font color="#2E8B57">Yong Peng^</font>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. 2017. 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [1] Shanshan Ai^, <b>Yong Peng^</b>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. 2017. 
 <a href="https://elifesciences.org/content/6/e24570">
 EED orchestration of heart maturation through interaction with HDACs is H3K27me3-independent. </a>   
 eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/">PMID:28394251</a>
 </p>
-
+         
+<br>     
+       
 <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <font color="#2E8B57">Yong Peng</font>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <b>Yong Peng</b>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. Shanshan Ai^, Xianhong Yu^, Yumei Li^, <font color="#2E8B57">Yong Peng</font>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, Aibin He*. 2017. 
 <a href="http://circres.ahajournals.org/content/early/2017/05/16/CIRCRESAHA.117.311212">
