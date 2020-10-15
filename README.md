@@ -34,8 +34,8 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc., &nbsp; 2006.09~2010.07,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, Haerbin, China. </p>             
 <br>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; PhD. Dissertation (Chinese): Epigenetic Outcomes of Assisted Reproduction in the Offspring. @ <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>. </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc. thesis (Chinese): <a href="http://cdmd.cnki.com.cn/Article/CDMD-10126-1013293069.htm"> Predicting subnuclear location of proteins and subcellular location of ncRNAs based on 
-multi-information fusion and multi-label ensemble classifier</a>. @ <a href="http://wlxy.imu.edu.cn/info/1305/3351.htm"> Qianzhong Li Group </a>. </p>                
+<p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc. thesis (Chinese):Predicting subnuclear location of proteins and subcellular location of ncRNAs based on 
+multi-information fusion and multi-label ensemble classifier. @ <a href="http://wlxy.imu.edu.cn/info/1305/3351.htm"> Qianzhong Li Group </a>. </p>                
 <p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ Tao Jin Group. </p>
 
 
@@ -46,6 +46,13 @@ multi-information fusion and multi-label ensemble classifier</a>. @ <a href="htt
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; (^) First authorship; (*) Senior authorship </b></p>
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3] Siming Kong^, <b>Yong Peng^</b>, Wei Chen^, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://xxxxxx"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/xxxxxx/">PMID:xxxxxx</a>
+</p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [2] Wei Chen^, <b>Yong Peng^</b>, Xinyi Ma^, Siming Kong, Shuangyan Tan,Yuan Wei,Yangyu Zhao, Wenxin Zhang, Yang
+Wang*, Liying Yan*, Jie Qiao*. 2020. <a href="https://xxxxxx"> Integrated Multi-omics Reveal Epigenomic Disturbance of Assisted Reproductive Technologies in Human Offspring. </a>  EBioMedicine. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/xxxxxx/">PMID:xxxxxx</a>
+</p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [1] Shanshan Ai^, <b>Yong Peng^</b>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. 2017. 
 <a href="https://elifesciences.org/content/6/e24570">
@@ -59,25 +66,25 @@ eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/"
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <b>Yong Peng</b>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [4]. Shanshan Ai^, Xianhong Yu^, Yumei Li^, <font color="#2E8B57">Yong Peng</font>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, Aibin He*. 2017. 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Shanshan Ai^, Xianhong Yu^, Yumei Li^, <font color="#2E8B57">Yong Peng</font>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, Aibin He*. 2017. 
 <a href="http://circres.ahajournals.org/content/early/2017/05/16/CIRCRESAHA.117.311212">
 Divergent Requirements for EZH1 in Heart Development Versus Regeneration. </a>   
 Circulation Research, 121(2):106-112. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28512107">PMID:28512107</a>
 </p>
                                                                                                        
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [3].  Yong-Chun Zuo*, <font color="#2E8B57">Yong Peng</font>, Li Liu, Wei Chen, Lei Yang*, and Guo-Liang Fan*. 2014.  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3]  Yong-Chun Zuo*, <font color="#2E8B57">Yong Peng</font>, Li Liu, Wei Chen, Lei Yang*, and Guo-Liang Fan*. 2014.  
 <a href="http://www.sciencedirect.com/science/article/pii/S0003269714001912">
 Predicting peroxidase subcellular location by hybridizing different descriptors of Chou’ pseudo amino acid patterns. </a>
 Analytical Biochemistry, 458:14-19.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/24802134">PMID:24802134</a>
 </p>
                  
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [2].  Yongchun Zuo*, Pengfei Zhang, Li Liu, Tao Li, <font color="#2E8B57">Yong Peng</font>, Guangpeng Li, and Qianzhong Li*. 2014.  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [2]  Yongchun Zuo*, Pengfei Zhang, Li Liu, Tao Li, <font color="#2E8B57">Yong Peng</font>, Guangpeng Li, and Qianzhong Li*. 2014.  
 <a href="http://link.springer.com/article/10.1007%2Fs10577-014-9414-z">
 Sequence-specific flexibility organization of splicing flanking sequence and prediction of splice sites in the human genome. </a>
 Chromosome Research, 22(3):321-334.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/24728765">PMID:24728765</a>
 </p>
                    
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [1]. Tao Li, Qian-Zhong Li*, Shuai Liu, Guo-Liang Fan, Yong-Chun Zuo, and <font color="#2E8B57">Yong Peng</font>. 2013.  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [1] Tao Li, Qian-Zhong Li*, Shuai Liu, Guo-Liang Fan, Yong-Chun Zuo, and <font color="#2E8B57">Yong Peng</font>. 2013.  
 <a href="http://bioinformatics.oxfordjournals.org/content/29/6/678.abstract">
 PreDNA: accurate prediction of DNA-binding sites in proteins by integrating sequence and geometric structure information. </a>
 Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23335013">PMID:23335013</a>
