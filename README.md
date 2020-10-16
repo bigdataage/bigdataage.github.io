@@ -114,33 +114,28 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
     <th> &nbsp; &nbsp;  </th>
     <th> &nbsp; Skill &nbsp; </th>
     <th> &nbsp; Level &nbsp;  </th>   
+    <th> &nbsp; &nbsp;  </th>
+    <th> &nbsp; Skill &nbsp; </th>
+    <th> &nbsp; Level &nbsp;  </th> 
   </tr>            
   <tr>
     <td> &nbsp;  Go  &nbsp; </td>
     <td> &nbsp;  2  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
-    <td> &nbsp;  Java &nbsp; </td>
-    <td> &nbsp;  1  &nbsp; </td>
-  </tr>
-  <tr>
-    <td> &nbsp;  Javascript  &nbsp; </td>
-    <td> &nbsp;  1  &nbsp; </td>
-    <th> &nbsp; &nbsp;  </th>
-    <td> &nbsp;  Markup Languages  &nbsp; </td>
-    <td> &nbsp;  1  &nbsp; </td>
-  </tr>   
-  <tr>
     <td> &nbsp;  Python  &nbsp; </td>
     <td> &nbsp;  3  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  Perl  &nbsp; </td>
     <td> &nbsp;  4  &nbsp; </td>
-  </tr> 
+  </tr>  
   <tr>
     <td> &nbsp;  R  &nbsp; </td>
     <td> &nbsp;  4  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  Julia  &nbsp; </td>
+    <td> &nbsp;  1  &nbsp; </td>
+      <th> &nbsp; &nbsp;  </th>
+      <td> &nbsp;  Javascript  &nbsp; </td>
     <td> &nbsp;  1  &nbsp; </td>
   </tr>
   <tr>
@@ -148,6 +143,9 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
     <td> &nbsp;  2  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  SQL and NoSQL  &nbsp; </td>
+    <td> &nbsp;  1  &nbsp; </td>
+     <th> &nbsp; &nbsp;  </th>
+    <td> &nbsp;  Markup Languages  &nbsp; </td>
     <td> &nbsp;  1  &nbsp; </td>
   </tr>
   <tr>
