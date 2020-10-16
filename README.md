@@ -149,6 +149,8 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
     <td> &nbsp;  1  &nbsp; </td>
   </tr>
   <tr>
+  </tr>
+  <tr>
     <td> &nbsp;  Statistics  &nbsp; </td>
     <td> &nbsp;  3  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
@@ -178,7 +180,7 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
   </tr>
   <tr>
     <td> &nbsp;  Biology  &nbsp; </td>
-    <td> &nbsp;  2  &nbsp; </td>
+    <td> &nbsp;  3  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  English  &nbsp; </td>
     <td> &nbsp;  3  &nbsp; </td>
