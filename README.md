@@ -47,7 +47,7 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [3] Siming Kong^, <b>Yong Peng^</b>, Wei Chen^, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://xxxxxx"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/xxxxxx/">PMID:xxxxxx</a>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3] Siming Kong^, <b>Yong Peng^</b>, Wei Chen^, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.234"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine, 10(8): e234. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/xxxxxx/">PMID:xxxxxx</a>
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [2] Wei Chen^, <b>Yong Peng^</b>, Xinyi Ma^, Siming Kong, Shuangyan Tan,Yuan Wei,Yangyu Zhao, Wenxin Zhang, Yang
