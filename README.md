@@ -22,7 +22,7 @@
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.12~now,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a> and <a href="http://www.puh3.net.cn/">Peking University Third Hospital</a>, Beijing, China. </p>                     
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a>, Beijing, China. </p>                     
  
  
  <br>
@@ -47,7 +47,7 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [3] Siming Kong^, <b>Yong Peng^</b>, Wei Chen^, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.234"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine, 10(8): e234. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/xxxxxx/">PMID:xxxxxx</a>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [3] Siming Kong^, <b>Yong Peng^</b>, Wei Chen^, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.234"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine, 10(8): e234. <a href="https://pubmed.ncbi.nlm.nih.gov/33377650/">PMID: 33377650</a>
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [2] Wei Chen^, <b>Yong Peng^</b>, Xinyi Ma^, Siming Kong, Shuangyan Tan,Yuan Wei,Yangyu Zhao, Wenxin Zhang, Yang
