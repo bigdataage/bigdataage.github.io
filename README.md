@@ -64,6 +64,8 @@ eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/"
        
 <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Zhiqiang Yan^, Jianting An^, <b>Yong Peng</b>, Siming Kong, Qiang Liu, Ming Yang, Qilong He, Shi Song, Yidong Chen, Wei Chen, Rong Li, Jie Qiao*, Liying Yan*. 2021. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab208/6294163?redirectedFrom=fulltext"> DevOmics: an integrated multi-omics database of human and mouse early embryo. </a>    Briefings in Bioinformatics, bbab208.  <a href="">PMID:xxxxxx</a> </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <b>Yong Peng</b>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Shanshan Ai^, Xianhong Yu^, Yumei Li^, <b>Yong Peng</b>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, Aibin He*. 2017. 
