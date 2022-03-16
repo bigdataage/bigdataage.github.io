@@ -47,6 +47,9 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Lulu Hu, Shun Liu, Yong Peng, Ruiqi Ge, Rui Su, Chamara Senevirathne, Bryan T. Harada, Qing Dai, Jiangbo Wei, Lisheng Zhang, Ziyang Hao, Liangzhi Luo, Huanyu Wang, Yuru Wang, Minkui Luo, Mengjie Chen, Jianjun Chen & Chuan He. 2022. <a href="hhttps://www.nature.com/articles/s41587-022-01243-z"> m6A RNA modifications are measured at single-base resolution across the mammalian transcriptome. </a>  Nature Biotechnology. <a href="">PMID: xxx</a>
+</p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [3] Siming Kong^, <b>Yong Peng^</b>, Wei Chen^, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.234"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine, 10(8): e234. <a href="https://pubmed.ncbi.nlm.nih.gov/33377650/">PMID: 33377650</a>
 </p>
 
@@ -64,7 +67,7 @@ eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/"
        
 <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. Hanshuang Li^,Chunshen Long^,Yan Hong,Lemuge Chao,<b>Yong Peng</b andYongchun Zuo*. 2023. <a href="https://www.mdpi.com/1422-0067/23/3/1567"> The Cumulative Formation of R-loop Interacts with Histone Modifications to Shape Cell Reprogramming. </a>    International Journal of Molecular Sciences
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. Hanshuang Li^,Chunshen Long^,Yan Hong,Lemuge Chao,<b>Yong Peng</b andYongchun Zuo*. 2022. <a href="https://www.mdpi.com/1422-0067/23/3/1567"> The Cumulative Formation of R-loop Interacts with Histone Modifications to Shape Cell Reprogramming. </a>    International Journal of Molecular Sciences
 , 23(3):1567.  <a href="https://pubmed.ncbi.nlm.nih.gov/35163490/">PMID:35163490</a> </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Zhiqiang Yan^, Jianting An^, <b>Yong Peng</b>, Siming Kong, Qiang Liu, Ming Yang, Qilong He, Shi Song, Yidong Chen, Wei Chen, Rong Li, Jie Qiao*, Liying Yan*. 2021. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab208/6294163?redirectedFrom=fulltext"> DevOmics: an integrated multi-omics database of human and mouse early embryo. </a>    Briefings in Bioinformatics, bbab208.  <a href="https://pubmed.ncbi.nlm.nih.gov/34097004/">PMID:34097004</a> </p>
