@@ -1,5 +1,5 @@
 <h1 style = "color:#0a0b6f"> <b> Yong Peng's CV </b>  <span style="font-size:20px">   </span>    </h1> 
-<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpeng-2.png"    height="300"  style="float:right;"  />   
+<img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpengyi.png"    height="300"  style="float:right;"  />   
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Man </p>         
@@ -47,7 +47,7 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Lulu Hu^, Shun Liu^, <b>Yong Peng^</b>, Ruiqi Ge^, Rui Su^, Chamara Senevirathne, Bryan T. Harada, Qing Dai, Jiangbo Wei, Lisheng Zhang, Ziyang Hao, Liangzhi Luo, Huanyu Wang, Yuru Wang, Minkui Luo, Mengjie Chen*, Jianjun Chen* & Chuan He*. 2022. <a href="hhttps://www.nature.com/articles/s41587-022-01243-z"> m6A RNA modifications are measured at single-base resolution across the mammalian transcriptome. </a>  Nature Biotechnology. <a href="">PMID: xxx</a>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Lulu Hu^, Shun Liu^, <b>Yong Peng^</b>, Ruiqi Ge^, Rui Su^, Chamara Senevirathne, Bryan T. Harada, Qing Dai, Jiangbo Wei, Lisheng Zhang, Ziyang Hao, Liangzhi Luo, Huanyu Wang, Yuru Wang, Minkui Luo, Mengjie Chen*, Jianjun Chen* & Chuan He*. 2022. <a href="https://www.nature.com/articles/s41587-022-01243-z"> m6A RNA modifications are measured at single-base resolution across the mammalian transcriptome. </a>  Nature Biotechnology. <a href="">PMID: xxx</a>
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [3] Siming Kong^, <b>Yong Peng^</b>, Wei Chen^, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.234"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine, 10(8): e234. <a href="https://pubmed.ncbi.nlm.nih.gov/33377650/">PMID: 33377650</a>
