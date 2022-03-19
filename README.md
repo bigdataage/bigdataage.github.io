@@ -67,14 +67,13 @@ eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/"
        
 <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. Hanshuang Li^,Chunshen Long^,Yan Hong,Lemuge Chao,<b>Yong Peng</b andYongchun Zuo*. 2022. <a href="https://www.mdpi.com/1422-0067/23/3/1567"> The Cumulative Formation of R-loop Interacts with Histone Modifications to Shape Cell Reprogramming. </a>    International Journal of Molecular Sciences
-, 23(3):1567.  <a href="https://pubmed.ncbi.nlm.nih.gov/35163490/">PMID:35163490</a> </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. Hanshuang Li^,Chunshen Long^,Yan Hong, Lemuge Chao,<b>Yong Peng</b>, and Yongchun Zuo*. 2022. <a href="https://www.mdpi.com/1422-0067/23/3/1567"> The Cumulative Formation of R-loop Interacts with Histone Modifications to Shape Cell Reprogramming. </a>    International Journal of Molecular Sciences, 23(3):1567.  <a href="https://pubmed.ncbi.nlm.nih.gov/35163490/">PMID:35163490</a> </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Zhiqiang Yan^, Jianting An^, <b>Yong Peng</b>, Siming Kong, Qiang Liu, Ming Yang, Qilong He, Shi Song, Yidong Chen, Wei Chen, Rong Li, Jie Qiao*, Liying Yan*. 2021. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab208/6294163?redirectedFrom=fulltext"> DevOmics: an integrated multi-omics database of human and mouse early embryo. </a>    Briefings in Bioinformatics, bbab208.  <a href="https://pubmed.ncbi.nlm.nih.gov/34097004/">PMID:34097004</a> </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Zhiqiang Yan^, Jianting An^, <b>Yong Peng</b>, Siming Kong, Qiang Liu, Ming Yang, Qilong He, Shi Song, Yidong Chen, Wei Chen, Rong Li, Jie Qiao*, Liying Yan*. 2021. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab208/6294163?redirectedFrom=fulltext"> DevOmics: an integrated multi-omics database of human and mouse early embryo. </a> Briefings in Bioinformatics, bbab208.  <a href="https://pubmed.ncbi.nlm.nih.gov/34097004/">PMID:34097004</a> </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <b>Yong Peng</b>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a>    Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <b>Yong Peng</b>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, and Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation. </a> Nature Cell Biology, 21(3):319-327.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a> </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Shanshan Ai^, Xianhong Yu^, Yumei Li^, <b>Yong Peng</b>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, Aibin He*. 2017. 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Shanshan Ai^, Xianhong Yu^, Yumei Li^, <b>Yong Peng</b>, Chen Li, Yanzhu Yue, Ge Tao, Chuan-Yun Li, William T Pu*, and Aibin He*. 2017. 
 <a href="http://circres.ahajournals.org/content/early/2017/05/16/CIRCRESAHA.117.311212">
 Divergent Requirements for EZH1 in Heart Development Versus Regeneration. </a>   
 Circulation Research, 121(2):106-112. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28512107">PMID:28512107</a>
