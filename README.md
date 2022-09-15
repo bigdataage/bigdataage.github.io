@@ -47,6 +47,11 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [5] <b>Yong Peng^</b>, Hanzhe Meng^, Ruiqi Ge^, Shun Liu^, Mengjie Chen, Chuan He* & Lulu Hu*. 2022. 
+<a href="https://www.sciencedirect.com/science/article/pii/S2666166722005573"> Detection of m6A RNA modifications at single-nucleotide resolution using m6A-selective allyl chemical labeling and sequencing. </a> . STAR Protocols, 3(4), 101677.
+</p>
+
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [4] Lulu Hu^, Shun Liu^, <b>Yong Peng^</b>, Ruiqi Ge^, Rui Su^, Chamara Senevirathne, Bryan T. Harada, Qing Dai, Jiangbo Wei, Lisheng Zhang, Ziyang Hao, Liangzhi Luo, Huanyu Wang, Yuru Wang, Minkui Luo, Mengjie Chen*, Jianjun Chen* & Chuan He*. 2022. <a href="https://www.nature.com/articles/s41587-022-01243-z"> m6A RNA modifications are measured at single-base resolution across the mammalian transcriptome. </a>  Nature Biotechnology. <a href="https://pubmed.ncbi.nlm.nih.gov/35288668/">PMID: 35288668</a>
 </p>
 
