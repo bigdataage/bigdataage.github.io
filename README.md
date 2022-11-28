@@ -72,6 +72,8 @@ eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/"
        
 <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [8]. Ruiqi Ge^, Chang Ye^, <b>Yong Peng</b>, Qing Dai, Yutao Zhao, Shun Liu, Pingluan Wang, Lulu Hu* & Chuan He*. 2022. <a href="https://www.nature.com/articles/s41596-022-00765-9"> m6A-SAC-seq for quantitative whole transcriptome m6A profiling. </a>   Nature Protocols.   </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. Hanshuang Li^,Chunshen Long^,Yan Hong, Lemuge Chao,<b>Yong Peng</b>, and Yongchun Zuo*. 2022. <a href="https://www.mdpi.com/1422-0067/23/3/1567"> The Cumulative Formation of R-loop Interacts with Histone Modifications to Shape Cell Reprogramming. </a>    International Journal of Molecular Sciences, 23(3):1567.  <a href="https://pubmed.ncbi.nlm.nih.gov/35163490/">PMID:35163490</a> </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [6]. Zhiqiang Yan^, Jianting An^, <b>Yong Peng</b>, Siming Kong, Qiang Liu, Ming Yang, Qilong He, Shi Song, Yidong Chen, Wei Chen, Rong Li, Jie Qiao*, Liying Yan*. 2021. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab208/6294163?redirectedFrom=fulltext"> DevOmics: an integrated multi-omics database of human and mouse early embryo. </a> Briefings in Bioinformatics, bbab208.  <a href="https://pubmed.ncbi.nlm.nih.gov/34097004/">PMID:34097004</a> </p>
