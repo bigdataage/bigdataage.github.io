@@ -14,6 +14,7 @@
 
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Epitranscriptomics, epigenomics, and bioinformatics. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Epigenetic and epitranscriptomic regulatory mechanisms of development and disease by using experimental and computational multi-omics technologies.</p>   
 
 
