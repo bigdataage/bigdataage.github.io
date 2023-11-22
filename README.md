@@ -23,7 +23,7 @@
 
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.12~now,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~now,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a>, Beijing, China. </p>                     
  
  
@@ -44,12 +44,12 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 <br>       
 
 
-<h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications and Submmited Manuscript </b></h3>                 
+<h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications and Submitted Manuscript </b></h3>                 
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; (^) First authorship; (*) Senior authorship </b></p>
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2022. Plasma cell-free DNA hydroxymethylomes define disease state in EGFR-mutant non-small cell lung cancer. (Submmitted to Genome Medicine)    
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2023. Plasma cell-free DNA hydroxymethylomes define disease state in EGFR-mutant non-small cell lung cancer. (Submitted to Genome Medicine)    
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5] <b>Yong Peng^</b>, Hanzhe Meng^, Ruiqi Ge^, Shun Liu^, Mengjie Chen, Chuan He* & Lulu Hu*. 2022. 
