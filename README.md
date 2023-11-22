@@ -2,7 +2,8 @@
 <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpengyi.png"    height="300"  style="float:right;"  />   
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Man </p>         
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Man </p>       
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Marital status: Married </p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P. R. China. </a> </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
@@ -43,10 +44,13 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 <br>       
 
 
-<h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications </b></h3>                 
+<h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications and Submmited Manuscript </b></h3>                 
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; (^) First authorship; (*) Senior authorship </b></p>
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2022. Plasma cell-free DNA hydroxymethylomes define disease state in EGFR-mutant non-small cell lung cancer. (Submmitted to Genome Medicine)    
+</p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5] <b>Yong Peng^</b>, Hanzhe Meng^, Ruiqi Ge^, Shun Liu^, Mengjie Chen, Chuan He* & Lulu Hu*. 2022. 
 <a href="https://www.sciencedirect.com/science/article/pii/S2666166722005573"> Detection of m6A RNA modifications at single-nucleotide resolution using m6A-selective allyl chemical labeling and sequencing. </a>  STAR Protocols, 3(4), 101677.
