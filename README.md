@@ -49,7 +49,7 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2023. Plasma cell-free DNA hydroxymethylomes define disease state in EGFR-mutant non-small cell lung cancer. (Submitted to Genome Medicine)    
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2024. Epigenomic basis exploration and noninvasive diagnosis for disease states of EGFR-mutated non-small cell lung cancer using plasma cell-free DNA hydroxymethylomes. (Submitted to Cancer Communications, Under Review)    
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5] <b>Yong Peng^</b>, Hanzhe Meng^, Ruiqi Ge^, Shun Liu^, Mengjie Chen, Chuan He* & Lulu Hu*. 2022. 
