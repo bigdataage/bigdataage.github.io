@@ -64,7 +64,7 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [2] Wei Chen^, <b>Yong Peng^</b>, Xinyi Ma^, Siming Kong, Shuangyan Tan,Yuan Wei,Yangyu Zhao, Wenxin Zhang, Yang
-Wang*, Liying Yan*, Jie Qiao*. 2020. <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(20)30452-7/fulltext"> Integrated Multi-omics Reveal Epigenomic Disturbance of Assisted Reproductive Technologies in Human Offspring. </a>  EBioMedicine, 61, 103076. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7585147/">PMID:33099088</a>
+Wang*, Liying Yan*, Jie Qiao*. 2020. <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(20)30452-7/fulltext"> Integrated Multi-omics Reveal Epigenomic Disturbance of Assisted Reproductive Technologies in Human Offspring. </a>  eBioMedicine, 61, 103076. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7585147/">PMID:33099088</a>
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [1] Shanshan Ai^, <b>Yong Peng^</b>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. 2017. 
