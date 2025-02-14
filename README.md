@@ -1,7 +1,7 @@
 <h1 style = "color:#0a0b6f"> <b> Yong Peng's CV </b>  <span style="font-size:20px">   </span>    </h1> 
 <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpengyi.png"    height="300"  style="float:right;"  />   
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng (彭勇) </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Man </p>       
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Marital status: Married </p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P. R. China. </a> </p>
@@ -49,11 +49,11 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2024. Epigenomic basis exploration and noninvasive diagnosis for disease states of EGFR-mutated non-small cell lung cancer using plasma cell-free DNA hydroxymethylomes. (Submitted to Cancer Communications, Under Review)    
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2025.  <a href="https://onlinelibrary.wiley.com/doi/10.1002/cac2.12606"> Epigenomic exploration of disease status of EGFR-mutated non-small cell lung cancer using plasma cell-free DNA hydroxymethylomes. </a>  Cancer Communications, 45(1):51-55.   <a href="https://pubmed.ncbi.nlm.nih.gov/39527101/">PMID: 39527101</a>
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [5] <b>Yong Peng^</b>, Hanzhe Meng^, Ruiqi Ge^, Shun Liu^, Mengjie Chen, Chuan He* & Lulu Hu*. 2022. 
-<a href="https://www.sciencedirect.com/science/article/pii/S2666166722005573"> Detection of m6A RNA modifications at single-nucleotide resolution using m6A-selective allyl chemical labeling and sequencing. </a>  STAR Protocols, 3(4), 101677.
+<a href="https://www.sciencedirect.com/science/article/pii/S2666166722005573"> Detection of m6A RNA modifications at single-nucleotide resolution using m6A-selective allyl chemical labeling and sequencing. </a>  STAR Protocols, 3(4), 101677. <a href="https://pubmed.ncbi.nlm.nih.gov/36112507/">PMID: 36112507</a>
 </p>
 
 
