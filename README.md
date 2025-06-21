@@ -7,7 +7,7 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P. R. China. </a> </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (My source codes for bioinformatics) 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a>  
   <p> &nbsp;&nbsp;&nbsp;&nbsp;  ORCID: https://orcid.org/0000-0003-3405-8836 </p>
   <p> &nbsp;&nbsp;&nbsp;&nbsp;  Web of Science (ResearcherID): https://www.webofscience.com/wos/author/record/NOU-4462-2025 </p>
 </p>   
