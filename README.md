@@ -8,6 +8,8 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a> (My source codes for bioinformatics) 
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;  ORCID: https://orcid.org/0000-0003-3405-8836 </p>
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;  Web of Science (ResearcherID): https://www.webofscience.com/wos/author/record/NOU-4462-2025 </p>
 </p>   
 
                  
@@ -23,7 +25,7 @@
 
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~now,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a>, Beijing, China. </p>                     
  
  
