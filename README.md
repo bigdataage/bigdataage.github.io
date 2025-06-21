@@ -8,8 +8,8 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a>  
-  <p> &nbsp;&nbsp;&nbsp;&nbsp;  ORCID: https://orcid.org/0000-0003-3405-8836 </p>
-  <p> &nbsp;&nbsp;&nbsp;&nbsp;  Web of Science (ResearcherID): https://www.webofscience.com/wos/author/record/NOU-4462-2025 </p>
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;  ORCID: <a href="https://orcid.org/0000-0003-3405-8836">  https://orcid.org/0000-0003-3405-8836 </p>
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;  Web of Science (ResearcherID): <a href="https://www.webofscience.com/wos/author/record/NOU-4462-2025"> https://www.webofscience.com/wos/author/record/NOU-4462-2025 </p>
 </p>   
 
                  
@@ -17,8 +17,8 @@
 
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Epitranscriptomics, epigenomics, and bioinformatics. </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Epitranscriptomic and epigenomic regulatory mechanisms of development and disease by using computational and experimental multi-omics technologies.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Epitranscriptomics, epigenomics, quantitative genetics, and bioinformatics: </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Epitranscriptomic and epigenomic regulatory mechanisms of aging and aging-related diseases using experimental and computational multi-omics technologies.</p>   
 
 
 <br>      
