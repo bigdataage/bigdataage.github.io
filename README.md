@@ -20,7 +20,7 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (2) Discover Chinese herbal medicines or medicinal natural products how to delay aging and increase longevity through epigenetic mechanisms and correcting epitranscriptome-epigenome crosstalk disorders in aging and age-related diseases.</p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (3) Large-scale plant multi-omics data analysis for medicinal natural products discovery and biosynthesis.</p>  
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (4) (5)	Develop novel methods of liquid biopsy based on integration of cell-free multi-omics signals to provide molecular basis for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (4) Develop novel methods of liquid biopsy based on integration of cell-free multi-omics signals to provide molecular basis for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
 
 <br>      
 
