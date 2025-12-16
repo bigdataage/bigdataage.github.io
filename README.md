@@ -19,16 +19,20 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; The epitranscriptome and epigenome play crucial roles for precisely regulating the spatiotemporal specificity of gene expression. My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases as well as its application in traditional Chinese medicine (TCM): </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p>   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (2) Discover Chinese herbal medicines or medicinal natural products how to delay aging and increase longevity through epigenetic mechanisms and correct epitranscriptome-epigenome crosstalk disorders in aging and age-related diseases.</p>   
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) Medicinal plants can produce diverse specialized metabolites with important pharmacological properties and have been directly used as traditional medicine for centuries. Large-scale plant multi-omics data analysis for medicinal natural products discovery and biosynthesisto facilitate rapid discovery of unknown metabolic pathways/enzymes for the production of new bioactive compounds.. </p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) Large-scale plant multi-omics data analysis for medicinal natural products discovery and biosynthesis to facilitate rapid discovery of unknown metabolic pathways/enzymes for the production of new bioactive compounds. </p>  
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (4) Develop novel methods of liquid biopsy based on integration of cell-free multi-omics signals to provide molecular basis for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
 
 <br>      
 
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Institute of Herbgenomics </a> @ Chengdu University of Traditional Chinese Medicine,   <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chengdu, China. </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2025.02~2025.04,  &nbsp; Assistant Researcher, <a href="http://he-group.uchicago.edu/"> Fudan University </a> @ Cancer Research Center, <a href="https://www.uchicago.edu/"> Fudan University</a>, Shanghai, China. </p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ Chengdu University of Traditional Chinese Medicine, Chengdu, China. </p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ Fudan University</a>, Shanghai, China. </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a>, Beijing, China. </p>                     
  
  
@@ -50,9 +54,16 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="http://
 
 
 <h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications and Submitted Manuscript </b></h3>                 
-<p><b> &nbsp;&nbsp;&nbsp;&nbsp; (^) First authorship; (*) Senior authorship </b></p>
+<p><b> &nbsp;&nbsp;&nbsp;&nbsp; (#) First authorship; (*) Senior authorship </b></p>
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [8] Andrew Shafik#*, Yong Peng#, Zijie Zhang, Chen Chang, Pingluan Wang, Junghwa Lim, Hongjun Song, Chuan He, Mengjie Chen* & Peng Jin*.. 2025.  <a href="https://onlinelibrary.wiley.com/doi/10.1002/cac2.12606">Multi-region m6A epitranscriptome profiling of the human brain reveals both spatial and temporal signatures and an association with disease-risk genes. </a>  Nature Neuroscience.   <a href="https://pubmed.ncbi.nlm.nih.gov/39527101/">PMID: 39527101</a>
+</p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [7] Xiao Jiang#, Chu Xu#, Enzhuo Yang#, Danhua Xu#, <b>Yong Peng#</b>, Zhuo Liu, Qinxin Shao, Xue Han, Qiuxiao Chen, Weizhi He, Shuang He, Yanhui Xu, Chuan He, Xinxin Huang* & Lulu Hu*. 2025.  <a href="https://onlinelibrary.wiley.com/doi/10.1002/cac2.12606"> Epigenomic exploration of disease status of EGFR-mutated non-small cell lung cancer using plasma cell-free DNA hydroxymethylomes. </a>  Protein & Cell.   <a href="[https://pubmed.ncbi.nlm.nih.gov/39527101/](https://doi.org/10.1093/procel/pwaf079)">PMID: 39527101</a>
+</p>
+
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [6] <b>Yong Peng^</b>, Jason Karpus^, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2025.  <a href="https://onlinelibrary.wiley.com/doi/10.1002/cac2.12606"> Epigenomic exploration of disease status of EGFR-mutated non-small cell lung cancer using plasma cell-free DNA hydroxymethylomes. </a>  Cancer Communications, 45(1):51-55.   <a href="https://pubmed.ncbi.nlm.nih.gov/39527101/">PMID: 39527101</a>
 </p>
