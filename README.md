@@ -73,13 +73,13 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc. thesis (Chinese):Predicting subnuclear location of proteins and subcellular location of ncRNAs based on 
 multi-information fusion and multi-label ensemble classifier. @ <a href="https://wlxy.imu.edu.cn/info/1029/4019.htm"> Qianzhong Li Group </a>. </p>  
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ <a href="https://xueshu.baidu.com/scholarID/CN-BR7321PJ"> Tao Jin Group. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ <a href="https://xueshu.baidu.com/scholarID/CN-BR7321PJ"> Tao Jin Group </a>. </p>
 
 
- 
+                         
 <br>       
 
-
+             
 
 <h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications and Submitted Manuscripts </b></h3>    
 
