@@ -1,13 +1,23 @@
 <h1 style = "color:#0a0b6f"> <b> Yong Peng's CV </b>  <span style="font-size:20px">   </span>    </h1> 
+
 <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/yongpengyi.png"    height="300"  style="float:right;"  />   
+
 <h3 style = "color:#0a0b6f"><b> 1. About Me </b></h3>   
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng (彭勇) </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Man </p>       
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Man </p>   
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Marital status: Married </p>   
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P. R. China. </a> </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a>   </p> 
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; ORCID:  <a href="https://orcid.org/0000-0003-3405-8836">  https://orcid.org/0000-0003-3405-8836 </a> </p>
  
 
@@ -15,14 +25,23 @@
 <br>      
 
 
+
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; The epitranscriptome and epigenome play crucial roles for precisely regulating the spatiotemporal specificity of gene expression. My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases as well as its application in traditional Chinese medicine (TCM): </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p>   
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p> 
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (2) Discover Chinese herbal medicines or medicinal natural products how to delay aging and increase longevity through epigenetic mechanisms and correct epitranscriptome-epigenome crosstalk disorders in aging and age-related diseases.</p>   
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (3) Large-scale plant multi-omics data analysis for medicinal natural products discovery and biosynthesis to facilitate rapid discovery of unknown metabolic pathways/enzymes for the production of new bioactive compounds. </p>  
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (4) Develop novel methods of liquid biopsy based on integration of cell-free multi-omics signals to provide molecular basis for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
 
+
+
 <br>      
+
 
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
@@ -40,20 +59,30 @@
   
   
 <h3><b style = "color:#0a0b6f"> 4. Education </b></h3>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab) </p> 
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc., &nbsp; 2010.09~2013.07,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, Hohhot, China. </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc., &nbsp; 2006.09~2010.07,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, Haerbin, China. </p>             
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc., &nbsp; 2006.09~2010.07,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, Haerbin, China. </p>  
+
 <br>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; PhD. Dissertation (Chinese): Epigenetic Outcomes of Assisted Reproduction in the Offspring. @ <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>. </p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; PhD. Dissertation (Chinese): Epigenetic Outcomes of Assisted Reproduction in the Offspring. @ <a href="https://www.pku.edu.cn/detail/2618.html"> Jie Qiao Group </a>. </p>
+
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc. thesis (Chinese):Predicting subnuclear location of proteins and subcellular location of ncRNAs based on 
-multi-information fusion and multi-label ensemble classifier. @ <a href="http://wlxy.imu.edu.cn/info/1305/3351.htm"> Qianzhong Li Group </a>. </p>                
-<p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ Tao Jin Group. </p>
+multi-information fusion and multi-label ensemble classifier. @ <a href="https://wlxy.imu.edu.cn/info/1029/4019.htm"> Qianzhong Li Group </a>. </p>  
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ <a href="https://xueshu.baidu.com/scholarID/CN-BR7321PJ"> Tao Jin Group. </p>
 
 
+ 
 <br>       
 
 
-<h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications and Submitted Manuscript </b></h3>                 
+
+<h3><b style = "color:#0a0b6f"> 5. Peer Reviewed Publications and Submitted Manuscripts </b></h3>    
+
 <p><b> &nbsp;&nbsp;&nbsp;&nbsp; (#) First authorship; (*) Senior authorship </b></p>
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
