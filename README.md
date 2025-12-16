@@ -46,13 +46,13 @@
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ Chengdu University of Traditional Chinese Medicine, Chengdu, China. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2025.07~now,  &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ <a href="https://www.cdutcm.edu.cn/">  Chengdu University of Traditional Chinese Medicine </a> , Chengdu, China. </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ Fudan University</a>, Shanghai, China. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ <a href="https://www.fudan.edu.cn/en/"> Fudan University </a>, Shanghai, China. </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="https://www.pku.edu.cn/detail/2618.html"> Jie Qiao Group </a>@  Key Laboratory of Assisted Reproduction-Ministry of Education, Beijing, China. </p>                     
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="https://www.pku.edu.cn/detail/2618.html"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China. </p>                     
  
  
  <br>
@@ -60,7 +60,7 @@
   
 <h3><b style = "color:#0a0b6f"> 4. Education </b></h3>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/english/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab) </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/en/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab) </p> 
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc., &nbsp; 2010.09~2013.07,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, Hohhot, China. </p>
 
