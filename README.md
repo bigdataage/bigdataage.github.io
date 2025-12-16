@@ -9,22 +9,25 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Email: yongp@outlook.com </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a>   </p> 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; ORCID:  <a href="https://orcid.org/0000-0003-3405-8836">  https://orcid.org/0000-0003-3405-8836 </a> </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Web of Science (ResearcherID): <a href="https://www.webofscience.com/wos/author/record/NOU-4462-2025"> https://www.webofscience.com/wos/author/record/NOU-4462-2025 </a> </p>
-  
+ 
 
                  
 <br>      
 
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Epitranscriptomics, epigenomics, quantitative genetics, and bioinformatics: </p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Epitranscriptomic and epigenomic regulatory mechanisms of aging and aging-related diseases using experimental and computational multi-omics technologies.</p>   
-
+<p> &nbsp;&nbsp;&nbsp;&nbsp; The epitranscriptome and epigenome play crucial roles for precisely regulating the spatiotemporal specificity of gene expression. My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases as well as its application in traditional Chinese medicine (TCM): </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) Discover Chinese herbal medicines or medicinal natural products how to delay aging and increase longevity through epigenetic mechanisms and correcting epitranscriptome-epigenome crosstalk disorders in aging and age-related diseases.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) Large-scale plant multi-omics data analysis for medicinal natural products discovery and biosynthesis.</p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (4) (5)	Develop novel methods of liquid biopsy based on integration of cell-free multi-omics signals to provide molecular basis for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
 
 <br>      
 
 
 <h3><b style = "color:#0a0b6f"> 3. Experience</b> </h3> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Institute of Herbgenomics </a> @ Chengdu University of Traditional Chinese Medicine,   <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chengdu, China. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2025.02~2025.04,  &nbsp; Assistant Researcher, <a href="http://he-group.uchicago.edu/"> Fudan University </a> @ Cancer Research Center, <a href="https://www.uchicago.edu/"> Fudan University</a>, Shanghai, China. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.12,  &nbsp; <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index2831.shtml"> Jie Qiao Group </a>@ <a href="http://www.puh3rmc.org/">Key Laboratory of Assisted Reproduction-Ministry of Education</a>, Beijing, China. </p>                     
  
