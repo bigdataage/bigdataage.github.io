@@ -90,7 +90,7 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="https:/
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [8] Andrew Shafik#*, <b>Yong Peng#</b>, Zijie Zhang, Chen Chang, Pingluan Wang, Junghwa Lim, Hongjun Song, Chuan He, Mengjie Chen* & Peng Jin*. 2025.  <a href="https://www.nature.com/articles/s41593-025-02112-z"> Multi-region m6A epitranscriptome profiling of the human brain reveals both spatial and temporal signatures and an association with disease-risk genes. </a>  Nature Neuroscience.   <a href="https://pubmed.ncbi.nlm.nih.gov/41366183/">PMID: 41366183</a>
 </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [7] Xiao Jiang#, Chu Xu#, Enzhuo Yang#, Danhua Xu#, <b>Yong Peng#</b>, Zhuo Liu, Qinxin Shao, Xue Han, Qiuxiao Chen, Weizhi He, Shuang He, Yanhui Xu, Chuan He, Xinxin Huang* & Lulu Hu*. 2025.  <a href="https://doi.org/10.1093/procel/pwaf079"> Deciphering the RNA Landscapes on Mammalian Cell Surfaces.. </a>  Protein & Cell.   <a href="https://pubmed.ncbi.nlm.nih.gov/40973153/">PMID: 40973153</a>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [7] Xiao Jiang#, Chu Xu#, Enzhuo Yang#, Danhua Xu#, <b>Yong Peng#</b>, Zhuo Liu, Qinxin Shao, Xue Han, Qiuxiao Chen, Weizhi He, Shuang He, Yanhui Xu, Chuan He, Xinxin Huang* & Lulu Hu*. 2025.  <a href="https://doi.org/10.1093/procel/pwaf079"> Deciphering the RNA Landscapes on Mammalian Cell Surfaces. </a>  Protein & Cell.   <a href="https://pubmed.ncbi.nlm.nih.gov/40973153/">PMID: 40973153</a>
 </p>
 
 
@@ -126,7 +126,17 @@ eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/"
        
 <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [8]. Ruiqi Ge#, Chang Ye#, <b>Yong Peng</b>, Qing Dai, Yutao Zhao, Shun Liu, Pingluan Wang, Lulu Hu* & Chuan He*. 2022. <a href="https://www.nature.com/articles/s41596-022-00765-9"> m6A-SAC-seq for quantitative whole transcriptome m6A profiling. </a>   Nature Protocols.   </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [12]. Alex Wardale, <b>Yong Peng</b>, Ruiqi Ge, Tor Erik Jørgensen, Steinar Daae Johansen, Chuan He & Igor Babiak. 2025. <a href=""> Single-nucleotide resolution mapping of m6A of zebrafish mRNAs in early embryonic development links m6A modifications to the maternal-to-zygotic transition. </a> Communications biology,under review. (Available on bioRXiv, doi:https://doi.org/10.1101/2025.11.19.688951) </p> 
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [12]. Daniel A. Kuppers, Sonali Arora, Cindy L. Wladyka, Ruiqi Ge, Shun Liu, <b>Yong Peng</b>, Rui Su, Anne Wilhite, Jianjun Chen, Chuan He, Andrew C. Hsieh & Patrick J. Paddison. 2025. <a href=""> N6-methyladenosine regulation of mRNA translation is essential for early human erythropoiesis. </a> (Available on bioRXiv, doi: https://doi.org/10.1101/2025.11.10.687731) </p> 
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [11]. Jong Jin Jeong#, Trinath Das#, Shannon Delaney, John Froehlich, Xiu Chen, Linda Degenstein, Ahri Choe, Prasanth Kumar Punathil Kannan, Hyun Lee, Kith Pradhan, Srinivas Aluri, <b>Yong Peng</b>, Alana Beadell, Charith Wickrema, Jagadeesh Ramasamy, Sriram Sundarave, Chuan He, Amit Verma & Amittha Wickrema. 2025. <a href=""> Inhibition of TET2 phosphorylation activates fetal hemoglobin in sickle cell 1 disease. </a> Nature Communications, under review. </p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [10]. Weizhi He#, Chu Xu#, Wen Chen#, Yuhang Wang, <b>Yong Peng</b>, Shujuan Chang, Wei Zhu，Jiuhong Kang* & Lulu Hu*. 2025. <a href="https://link.springer.com/article/10.1186/s13059-025-03857-3"> Uli-epic: profiling RNA modifications from ultra-low input samples. </a> Genome biology, 26, 384. <a href="https://pubmed.ncbi.nlm.nih.gov/41219823/"> PMID:41219823 </a>  </p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [9]. Yutao Zhao, Sun Hui-Lung, Wenlong Li, Chang Ye, Xiaoyang Dou, <b>Yong Peng</b>, Tong Wu, Pingluan Wang, Cheng-Wei Ju, Shun Liu, Yu-Hao Zhong, Qing Dai, Kinga Pajdzik & Chuan He. 2025. <a href="https://www.nature.com/articles/s41467-025-64668-5"> Pseudouridylation of 7SK by PUS7 regulates Pol II transcription elongation. </a> Nature Communications, 16, 9595. <a href="https://pubmed.ncbi.nlm.nih.gov/41168165/"> PMID:41168165 </a>  </p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [8]. Ruiqi Ge#, Chang Ye#, <b>Yong Peng</b>, Qing Dai, Yutao Zhao, Shun Liu, Pingluan Wang, Lulu Hu* & Chuan He*. 2022. <a href="https://www.nature.com/articles/s41596-022-00765-9"> m6A-SAC-seq for quantitative whole transcriptome m6A profiling. </a>   Nature Protocols, 18(2), 626-657. <a href="https://pubmed.ncbi.nlm.nih.gov/37349502/"> PMID:37349502 </a>  </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [7]. Hanshuang Li#,Chunshen Long#,Yan Hong, Lemuge Chao,<b>Yong Peng</b>, and Yongchun Zuo*. 2022. <a href="https://www.mdpi.com/1422-0067/23/3/1567"> The Cumulative Formation of R-loop Interacts with Histone Modifications to Shape Cell Reprogramming. </a>    International Journal of Molecular Sciences, 23(3):1567.  <a href="https://pubmed.ncbi.nlm.nih.gov/35163490/">PMID:35163490</a> </p>
 
