@@ -252,35 +252,55 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  Statistical Physics  &nbsp; </td>
     <td> &nbsp;  2  &nbsp; </td>
+    <th> &nbsp; &nbsp;  </th>
+    <td> &nbsp;  Molecular Simulation  &nbsp; </td>
+    <td> &nbsp;  1  &nbsp; </td>
   </tr>
+  
   <tr>
     <td> &nbsp;  Complex Networks  &nbsp; </td>
     <td> &nbsp;  2  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  Nonlinear Dynamics  &nbsp; </td>
+    <td> &nbsp;  1  &nbsp; </td>
+    <th> &nbsp; &nbsp;  </th>
+    <td> &nbsp;  Systems Biology  &nbsp; </td>
     <td> &nbsp;  2  &nbsp; </td>
   </tr>
+  
   <tr>
     <td> &nbsp;  Machine Learning  &nbsp; </td>
     <td> &nbsp;  2  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  Deep Neural Networks  &nbsp; </td>
     <td> &nbsp;  1  &nbsp; </td>
+    <th> &nbsp; &nbsp;  </th>
+    <td> &nbsp;  Artificial Intelligence  &nbsp; </td>
+    <td> &nbsp;  1  &nbsp; </td>
   </tr>
+  
   <tr>
     <td> &nbsp;  Bioinformatics  &nbsp; </td>
     <td> &nbsp;  4  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
-    <td> &nbsp;  Systems Biology  &nbsp; </td>
-    <td> &nbsp;  1  &nbsp; </td>
+    <td> &nbsp;  Epigenetics  &nbsp; </td>
+    <td> &nbsp;  3  &nbsp; </td>
+    <th> &nbsp; &nbsp;  </th>
+    <td> &nbsp;  Population and Quantitative Genetics  &nbsp; </td>
+    <td> &nbsp;  2  &nbsp; </td>
   </tr>
+  
   <tr>
     <td> &nbsp;  Biology  &nbsp; </td>
     <td> &nbsp;  3  &nbsp; </td>
     <th> &nbsp; &nbsp;  </th>
     <td> &nbsp;  English  &nbsp; </td>
     <td> &nbsp;  3  &nbsp; </td>
+    <th> &nbsp; &nbsp;  </th>
+    <td> &nbsp;  TCM  &nbsp; </td>
+    <td> &nbsp;  2  &nbsp; </td>
   </tr>
+  
 </table>                                 
                        
 <br>     
