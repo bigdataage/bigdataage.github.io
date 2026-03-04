@@ -87,7 +87,7 @@ multi-information fusion and multi-label ensemble classifier. @ <a href="https:/
 
 <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; [8] Andrew Shafik#*, <b>Yong Peng#</b>, Zijie Zhang, Chen Chang, Pingluan Wang, Junghwa Lim, Hongjun Song, Chuan He, Mengjie Chen* & Peng Jin*. 2026.  <a href="https://www.nature.com/articles/s41593-025-02112-z"> Multi-region m6A epitranscriptome profiling of the human brain reveals both spatial and temporal signatures and an association with disease-risk genes. </a>  Nature Neuroscience.   <a href="https://pubmed.ncbi.nlm.nih.gov/41366183/">PMID: 41366183</a>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; [8] Andrew Shafik#*, <b>Yong Peng#</b>, Zijie Zhang, Chen Chang, Pingluan Wang, Junghwa Lim, Hongjun Song, Chuan He, Mengjie Chen* & Peng Jin*. 2026.  <a href="https://www.nature.com/articles/s41593-025-02112-z"> Multi-region m6A epitranscriptome profiling of the human brain reveals both spatial and temporal signatures and an association with disease-risk genes. </a>  Nature Neuroscience, 29(1):195-205.   <a href="https://pubmed.ncbi.nlm.nih.gov/41366183/">PMID: 41366183</a>
 </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; [7] Xiao Jiang#, Chu Xu#, Enzhuo Yang#, Danhua Xu#, <b>Yong Peng#</b>, Zhuo Liu, Qinxin Shao, Xue Han, Qiuxiao Chen, Weizhi He, Shuang He, Yanhui Xu, Chuan He, Xinxin Huang* & Lulu Hu*. 2025.  <a href="https://doi.org/10.1093/procel/pwaf079"> Deciphering the RNA Landscapes on Mammalian Cell Surfaces. </a>  Protein & Cell.   <a href="https://pubmed.ncbi.nlm.nih.gov/40973153/">PMID: 40973153</a>
