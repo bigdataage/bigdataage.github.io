@@ -6,10 +6,6 @@
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Full Name: Yong Peng (彭勇) </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Gender: Man </p>   
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Marital status: Married </p>   
-
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P. R. China. </a> </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Citizenship: China </p>
@@ -50,7 +46,7 @@
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ <a href="https://www.fudan.edu.cn/en/"> Fudan University </a>, Shanghai, China. </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2020.01~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.12~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.11,  &nbsp; <a href="https://www.pku.edu.cn/detail/2618.html"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China. </p>                     
  
