@@ -24,15 +24,11 @@
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; The epigenetic regulatory network (ERN), characterized by extensive and dynamic crosstalk between epitranscriptome and epigenome, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. 
- 
-               
- 
- My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases as well as its application in traditional Chinese medicine (TCM): </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; The epigenetic regulatory network (ERN), characterized by extensive and dynamic crosstalk between epitranscriptome and epigenome, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorder is considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases, as well as its application in traditional Chinese medicine (TCM): </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) Discover Chinese herbal medicines or medicinal natural products how to delay aging and increase longevity through epigenetic mechanisms and correct epitranscriptome-epigenome crosstalk disorders in aging and age-related diseases.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) Discover Chinese herbal medicines or medicinal natural products how to delay aging and increase longevity through epigenetic mechanisms and correct ERN disorders in aging and age-related diseases.</p>   
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (3) Large-scale plant multi-omics data analysis for medicinal natural products discovery and biosynthesis to facilitate rapid discovery of unknown metabolic pathways/enzymes for the production of new bioactive compounds. </p>  
 
