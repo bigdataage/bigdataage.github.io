@@ -182,7 +182,7 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
 <h3><b style = "color:#0a0b6f"> 7. Skills  </b></h3>  
 
 <b> &nbsp;&nbsp;&nbsp;&nbsp; 7 Levels from Newbie 1 to God Level 7: <br> </b>     
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie(‌炼气期‌), &nbsp;  2:Basic(‌筑基期‌), &nbsp;  3:Familiar(‌金丹期‌), &nbsp;   4:Professional(元婴期‌), &nbsp;  5:Very Professional(化神期‌), &nbsp; 6:Top 10 Experts(‌炼虚), &nbsp;  7:God Level (Surpassing human's limit)(‌渡劫). <br> <br> </p>         
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 1:Newbie, &nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp; 6:Top 10 Experts, &nbsp;  7:God Level (Surpassing human's limit). <br> <br> </p>         
 
 <table border="2"  align="center"> 
  
@@ -311,7 +311,8 @@ Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/233
                        
 <br>     
                                 
-----------------------------------------------------------------------------------                            
+----------------------------------------------------------------------------------  
+End! 没啦！
 ----------------------------------------------------------------------------------                                                                   
                                                                                     
 
