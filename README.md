@@ -26,22 +26,21 @@
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; The epigenetic regulatory network (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from Chinese Materia Medica (CMM) and medicinal natural products.  </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (1)	ERN in Aging and Aging-related Diseases                 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (1)	<b> ERN in Aging and Aging-related Diseases </b>  </p>                 
                 
-Utilizing a combination of experimental and computational multi-omics methods to dissect the mechanisms of epitranscriptome-epigenome crosstalk as edges of ERN, such as interplay among RNA modifications (e.g., m6A,Ψ,m5C), DNA modifications (e.g., 5mC, 5hmC, 6mA), and histone modifications (e.g., H3K27me3,H3K27ac,H3K9me3), as well as functional roles of ERN in aging and aging-related diseases.   </p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Utilizing a combination of experimental and computational multi-omics methods to dissect the mechanisms of epitranscriptome-epigenome crosstalk as edges of ERN, such as interplay among RNA modifications (e.g., m6A,Ψ,m5C), DNA modifications (e.g., 5mC, 5hmC, 6mA), and histone modifications (e.g., H3K27me3,H3K27ac,H3K9me3), as well as functional roles of ERN in aging and aging-related diseases.   </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) ERN in bioactivity of CMM              
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) <b> ERN in bioactivity of CMM </b> </p>                
                
-Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of traditional Chinese medicine (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases. </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of traditional Chinese medicine (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases. </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) ERN in biosynthesis of CMM                  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) <b> ERN in biosynthesis of CMM /<b>     </p>             
                     
-Explore how ERN modulates biosynthesis of high-value active components derived from CMM and medicinal natural products. Develop large-scale plant multi-omics data analysis and AI approaches to facilitate rapid identification of unknown metabolic pathways and enzymes involved in the production of novel bioactive compounds for delaying aging and treating aging-related diseases.   </p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how ERN modulates biosynthesis of high-value active components derived from CMM and medicinal natural products. Develop large-scale plant multi-omics data analysis and AI approaches to facilitate rapid identification of unknown metabolic pathways and enzymes involved in the production of novel bioactive compounds for delaying aging and treating aging-related diseases.   </p>  
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (4)	ERN in Liquid Biopsy                       
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (4)	<b> ERN in Liquid Biopsy </b>   </p>                    
                       
-Develop novel liquid biopsy strategies by integrating cell-free epitranscriptome and epigenome for early diagnosis and detection of aging-related diseases, thereby providing a molecular foundation for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.  
-  </p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Develop novel liquid biopsy strategies by integrating cell-free epitranscriptome and epigenome for early diagnosis and detection of aging-related diseases, thereby providing a molecular foundation for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.   </p>  
 
 
 
