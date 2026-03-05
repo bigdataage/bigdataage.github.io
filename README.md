@@ -24,15 +24,20 @@
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; The epigenetic regulatory network (ERN), characterized by extensive and dynamic crosstalk between epitranscriptome and epigenome, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorder is considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases, as well as its application in traditional Chinese medicine (TCM): </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; The epigenetic regulatory network (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from Chinese Materia Medica (CMM) and medicinal natural products.  </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p> 
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (1)	ERN in Aging and Aging-related Diseases
+Utilizing a combination of experimental and computational multi-omics methods to dissect the mechanisms of epitranscriptome-epigenome crosstalk as edges of ERN, such as interplay among RNA modifications (e.g., m6A,Ψ,m5C), DNA modifications (e.g., 5mC, 5hmC, 6mA), and histone modifications (e.g., H3K27me3,H3K27ac,H3K9me3), as well as functional roles of ERN in aging and aging-related diseases.   </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) Discover Chinese herbal medicines or medicinal natural products how to delay aging and increase longevity through epigenetic mechanisms and correct ERN disorders in aging and age-related diseases.</p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) ERN in bioactivity of CMM
+Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of traditional Chinese medicine (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases. </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) Large-scale plant multi-omics data analysis for medicinal natural products discovery and biosynthesis to facilitate rapid discovery of unknown metabolic pathways/enzymes for the production of new bioactive compounds. </p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) ERN in biosynthesis of CMM
+Explore how ERN modulates biosynthesis of high-value active components derived from CMM and medicinal natural products. Develop large-scale plant multi-omics data analysis and AI approaches to facilitate rapid identification of unknown metabolic pathways and enzymes involved in the production of novel bioactive compounds for delaying aging and treating aging-related diseases.   </p>  
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (4) Develop novel methods of liquid biopsy based on integration of cell-free multi-omics signals to provide molecular basis for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (4)	ERN in Liquid Biopsy
+Develop novel liquid biopsy strategies by integrating cell-free epitranscriptome and epigenome for early diagnosis and detection of aging-related diseases, thereby providing a molecular foundation for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.  
+  </p>  
 
 
 
