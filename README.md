@@ -24,7 +24,7 @@
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; The <b> epigenetic regulatory network </b> (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from Chinese Materia Medica (CMM) and medicinal natural products.  </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; The <b> epigenetic regulatory network </b> (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from <b> Chinese Materia Medica </b> (CMM) and medicinal natural products.  </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (1)	<b> ERN in Aging and Aging-related Diseases </b>  </p>                 
                 
@@ -32,7 +32,7 @@
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (2) <b> ERN in bioactivity of CMM </b> </p>                
                
-<p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of traditional Chinese medicine (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases. </p>   
+<p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of <b> traditional Chinese medicine </b> (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases. </p>   
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (3) <b> ERN in biosynthesis of CMM </b>     </p>             
                     
