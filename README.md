@@ -34,7 +34,7 @@
                
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of traditional Chinese medicine (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases. </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) <b> ERN in biosynthesis of CMM /<b>     </p>             
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) <b> ERN in biosynthesis of CMM </b>     </p>             
                     
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how ERN modulates biosynthesis of high-value active components derived from CMM and medicinal natural products. Develop large-scale plant multi-omics data analysis and AI approaches to facilitate rapid identification of unknown metabolic pathways and enzymes involved in the production of novel bioactive compounds for delaying aging and treating aging-related diseases.   </p>  
 
