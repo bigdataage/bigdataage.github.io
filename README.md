@@ -30,11 +30,11 @@
                 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Utilizing a combination of experimental and computational multi-omics methods to dissect the mechanisms of epitranscriptome-epigenome crosstalk as edges of ERN, such as interplay among RNA modifications (e.g., m6A,Ψ,m5C), DNA modifications (e.g., 5mC, 5hmC, 6mA), and histone modifications (e.g., H3K27me3,H3K27ac,H3K9me3), as well as functional roles of ERN in aging and aging-related diseases.   </p> 
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) <b> ERN in bioactivity of CMM </b> </p>                
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (2) <b> ERN in Bioactivity of CMM </b> </p>                
                
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of <b> traditional Chinese medicine </b> (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases. </p>   
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) <b> ERN in biosynthesis of CMM </b>     </p>             
+<p> &nbsp;&nbsp;&nbsp;&nbsp; (3) <b> ERN in Biosynthesis of CMM </b>     </p>             
                     
 <p> &nbsp;&nbsp;&nbsp;&nbsp; Explore how ERN modulates biosynthesis of high-value active components derived from CMM and medicinal natural products. Develop large-scale plant multi-omics data analysis and AI approaches to facilitate rapid identification of unknown metabolic pathways and enzymes involved in the production of novel bioactive compounds for delaying aging and treating aging-related diseases.   </p>  
 
@@ -56,7 +56,7 @@
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.12~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA. </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.11,  &nbsp; <a href="https://www.pku.edu.cn/detail/2618.html"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China. </p>                     
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 2019.02~2019.11,  &nbsp; <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China. </p>                     
  
  
  <br>
@@ -72,7 +72,7 @@
 
 <br>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; PhD. Dissertation (Chinese): Epigenetic Outcomes of Assisted Reproduction in the Offspring. @ <a href="https://www.pku.edu.cn/detail/2618.html"> Jie Qiao Group </a>. </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; PhD. Dissertation (Chinese): Epigenetic Outcomes of Assisted Reproduction in the Offspring. @ <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a>. </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; M. Sc. thesis (Chinese):Predicting subnuclear location of proteins and subcellular location of ncRNAs based on 
 multi-information fusion and multi-label ensemble classifier. @ <a href="https://wlxy.imu.edu.cn/info/1029/4019.htm"> Qianzhong Li Group </a>. </p>  
