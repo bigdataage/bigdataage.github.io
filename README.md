@@ -24,7 +24,11 @@
 
 <h3><b style = "color:#0a0b6f"> 2. Research Interests </b></h3>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp; The epitranscriptome and epigenome play crucial roles for precisely regulating the spatiotemporal specificity of gene expression. My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases as well as its application in traditional Chinese medicine (TCM): </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; The epigenetic regulatory network (ERN), characterized by extensive and dynamic crosstalk between epitranscriptome and epigenome, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. 
+ 
+               
+ 
+ My research mainly focuses on the crosstalk between epitranscriptome and epigenome in aging and age-related diseases as well as its application in traditional Chinese medicine (TCM): </p>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp; (1) Develop and use a combination of experimental and computational multi-omics methods to discover the mechanisms of epitranscriptome-epigenome crosstalk, such as crosstalk among RNA m6A/Ψ/m5C, DNA 5mC/5hmC and histone modifications, as well as their functions in aging and age-related diseases.</p> 
 
