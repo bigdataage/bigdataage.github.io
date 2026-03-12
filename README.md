@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -313,12 +312,16 @@
         <hr>
         <h2><b>2. Research Interests</b></h2>
         <p>The <b> epigenetic regulatory network </b> (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from <b> Chinese Materia Medica </b> (CMM) and medicinal natural products.</p>
+        
         <p>(1)	<b> ERN in Aging and Aging-related Diseases </b></p>                
         <p>Utilizing a combination of experimental and computational multi-omics methods to dissect the mechanisms of epitranscriptome-epigenome crosstalk as edges of ERN, such as interplay among RNA modifications (e.g., m6A,Ψ,m5C), DNA modifications (e.g., 5mC, 5hmC, 6mA), and histone modifications (e.g., H3K27me3,H3K27ac,H3K9me3), as well as functional roles of ERN in aging and aging-related diseases.</p> 
+        
         <p>(2) <b> ERN in Bioactivity of CMM </b></p>               
-        <p>Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of <b> traditional Chinese medicine </b> (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases.</p>   
+        <p>Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of <b> traditional Chinese medicine </b> (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases.</p>  
+        
         <p>(3) <b> ERN in Biosynthesis of CMM </b></p>             
         <p>Explore how ERN modulates biosynthesis of high-value active components derived from CMM and medicinal natural products. Develop large-scale plant multi-omics data analysis and AI approaches to facilitate rapid identification of unknown metabolic pathways and enzymes involved in the production of novel bioactive compounds for delaying aging and treating aging-related diseases.</p>  
+        
         <p>(4)	<b> ERN in Liquid Biopsy </b></p>                    
         <p>Develop novel liquid biopsy strategies by integrating cell-free epitranscriptome and epigenome for early diagnosis and detection of aging-related diseases, thereby providing a molecular foundation for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
 
@@ -329,8 +332,11 @@
         <hr>
         <h2><b>3. Experience</b></h2> 
         <p>2025.07~now,  &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ <a href="https://www.cdutcm.edu.cn/">  Chengdu University of Traditional Chinese Medicine </a> , Chengdu, China.</p>
+        
         <p>2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ <a href="https://www.fudan.edu.cn/en/"> Fudan University </a>, Shanghai, China.</p>
+        
         <p>2019.12~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA.</p>
+        
         <p>2019.02~2019.11,  &nbsp; <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China.</p>                     
 
 
@@ -340,10 +346,17 @@
         <hr>
         <h2><b>4. Education</b></h2>
         <p>Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/en/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab)</p> 
+        
         <p>M. Sc., &nbsp; 2010.09~2013.06,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, Hohhot, China.</p>
+        
         <p>B. Sc., &nbsp; 2006.09~2010.06,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, Haerbin, China.</p>  
+        
+        <br>
+        <br>
         <p>PhD. Dissertation (Chinese): Epigenetic Outcomes of Assisted Reproduction in the Offspring. @ <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a>.</p>
+        
         <p>M. Sc. thesis (Chinese):Predicting subnuclear location of proteins and subcellular location of ncRNAs based on multi-information fusion and multi-label ensemble classifier. @ <a href="https://wlxy.imu.edu.cn/info/1029/4019.htm"> Qianzhong Li Group </a>.</p>  
+        
         <p>B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ <a href="https://xueshu.baidu.com/scholarID/CN-BR7321PJ"> Tao Jin Group </a>.</p>
 
         <br>
@@ -524,7 +537,7 @@
         <div class="footer">
             <hr>
             <hr>
-            &emsp End! 没了！
+            <p>&nbsp;&nbsp;&nbsp;</p> End! 没了！
             <hr>
             <hr>
         </div>
