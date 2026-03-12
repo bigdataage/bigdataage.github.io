@@ -357,6 +357,8 @@
         EED orchestration of heart maturation through interaction with HDACs is H3K27me3-independent. </a>   
         eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/">PMID:28394251</a></p>
 
+                                  
+        <hr>
         <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
         <p>[13]. Alex Wardale, <b>Yong Peng</b>, Ruiqi Ge, Tor Erik Jørgensen, Steinar Daae Johansen, Chuan He & Igor Babiak. 2026.  Single-nucleotide resolution mapping of m6A of zebrafish mRNAs in early embryonic development links m6A modifications to the maternal-to-zygotic transition.  (Available on bioRXiv, doi: <a href="https://doi.org/10.1101/2025.11.19.688951"> https://doi.org/10.1101/2025.11.19.688951 </a> )</p> 
         <p>[12]. Daniel A. Kuppers, Sonali Arora, Cindy L. Wladyka, Ruiqi Ge, Shun Liu, <b>Yong Peng</b>, Rui Su, Anne Wilhite, Jianjun Chen, Chuan He, Andrew C. Hsieh & Patrick J. Paddison. 2026.  N6-methyladenosine regulation of mRNA translation is essential for early human erythropoiesis.  (Available on bioRXiv, doi: <a href="https://doi.org/10.1101/2025.11.10.687731"> https://doi.org/10.1101/2025.11.10.687731 </a> )</p> 
@@ -412,7 +414,7 @@
                     <td> Mojo </td>
                     <td> 1 </td>
                     <th>  </th>
-                    <td> Snakemake/Containers/Anaconda </td>
+                    <td> Snakemake/Containers </td>
                     <td> 2 </td>
                 </tr>  
                 <tr>
@@ -492,7 +494,7 @@
                     <td> Epigenetics </td>
                     <td> 3 </td>
                     <th>  </th>
-                    <td> Population and Quantitative Genetics </td>
+                    <td> Quantitative Genetics </td>
                     <td> 2 </td>
                 </tr>
                 <tr>
@@ -515,6 +517,5 @@
             <hr>
             <hr>
         </div>
-    </div>
-</body>
-</html>
+</div>
+
