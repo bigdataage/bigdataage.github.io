@@ -513,7 +513,7 @@
         <div class="footer">
             <hr>
             <hr>
-            End! 没啦！
+            End! 没了！
             <hr>
             <hr>
         </div>
