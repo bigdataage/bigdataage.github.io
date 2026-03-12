@@ -2,111 +2,201 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Yong Peng's CV</title>
     <style>
-        /* 全局重置与基础样式 */
+        /* 全局重置与基础样式 - 使用相对单位提升适配性 */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+            transition: all 0.2s ease-in-out;
+        }
+
+        /* 定义基础字体大小，方便响应式调整 */
+        :root {
+            --base-font-size: 16px;
+            --container-padding: 50px;
+            --text-color: #2d3748;
+            --primary-color: #0a0b6f;
+            --light-bg: #f8f9fa;
         }
 
         body {
-            font-family: 'Segoe UI', Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f8f9fa;
-            padding: 20px;
+            font-family: 'Segoe UI', 'Microsoft YaHei', Arial, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            background: linear-gradient(180deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 1rem; /* 使用rem相对单位 */
             max-width: 1200px;
+            margin: 0 auto;
+            min-height: 100vh;
+            font-size: var(--base-font-size);
+            /* 确保body层级不影响段落对齐 */
+            text-align: left;
+        }
+
+        /* 容器样式 - 响应式内边距和圆角 */
+        .cv-container {
+            background: white;
+            padding: var(--container-padding);
+            border-radius: clamp(8px, 1.5vw, 12px); /* 自适应圆角 */
+            box-shadow: 0 4px clamp(10px, 2vw, 20px) rgba(0, 0, 0, 0.08);
+            position: relative;
+            overflow: hidden;
             margin: 0 auto;
         }
 
-        /* 容器样式 */
-        .cv-container {
-            background: white;
-            padding: 40px;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        /* 顶部装饰条 */
+        .cv-container::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: clamp(4px, 0.5vw, 6px);
+            background: linear-gradient(90deg, var(--primary-color) 0%, #2a2b9f 100%);
         }
 
-        /* 标题样式 */
+        /* 标题样式 - 响应式字体大小 */
         h1 {
-            color: #0a0b6f;
-            margin-bottom: 30px;
-            border-bottom: 2px solid #0a0b6f;
-            padding-bottom: 10px;
+            color: var(--primary-color);
+            margin-bottom: clamp(30px, 3vw, 40px);
+            border-bottom: clamp(2px, 0.2vw, 3px) solid var(--primary-color);
+            padding-bottom: clamp(10px, 1vw, 15px);
+            font-size: clamp(1.8em, 3vw, 2.2em); /* 自适应字体大小 */
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            text-align: center;
         }
 
         h3 {
-            color: #0a0b6f;
-            margin: 30px 0 15px;
+            color: var(--primary-color);
+            margin: clamp(30px, 3vw, 40px) 0 clamp(15px, 1.5vw, 20px);
             position: relative;
-            padding-left: 10px;
-            border-left: 4px solid #0a0b6f;
+            padding-left: clamp(10px, 1vw, 15px);
+            border-left: clamp(4px, 0.3vw, 5px) solid var(--primary-color);
+            font-size: clamp(1.2em, 1.8vw, 1.4em);
+            font-weight: 600;
+            text-align: left;
         }
 
-        /* 头像样式 */
+        /* 头像样式 - 完全响应式，防止变形 */
         .profile-img {
             float: right;
-            height: 300px;
-            margin-left: 20px;
-            margin-bottom: 20px;
-            border-radius: 4px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            height: auto; /* 取消固定高度 */
+            max-height: clamp(180px, 25vw, 300px); /* 最大高度自适应 */
+            width: auto;
+            max-width: 100%;
+            margin-left: clamp(20px, 2vw, 30px);
+            margin-bottom: clamp(15px, 1.5vw, 20px);
+            border-radius: clamp(4px, 0.5vw, 8px);
+            box-shadow: 0 clamp(2px, 0.3vw, 4px) clamp(8px, 1vw, 12px) rgba(0, 0, 0, 0.15);
+            border: clamp(2px, 0.2vw, 3px) solid #f0f2f8;
         }
 
-        /* 段落样式 */
+        /* 段落样式 - 强制两端对齐（核心修改） */
         p {
-            margin-bottom: 10px;
-            text-indent: 2em; /* 替代&nbsp;实现缩进，更规范 */
+            margin-bottom: clamp(10px, 1vw, 12px);
+            text-indent: 2em;
+            font-size: clamp(1em, 1.2vw, 1.05em);
+            color: #4a5568;
+            /* 强制两端对齐 - 核心样式 */
+            text-align: justify !important;
+            text-justify: inter-ideograph !important;
+            word-break: break-word;
+            hyphens: auto;
+            /* 确保英文也能两端对齐 */
+            word-spacing: 0.05em;
         }
 
-        /* 链接样式 */
+        /* 出版物特殊样式 */
+        .publication-highlight {
+            background-color: #f7f8fc;
+            padding: clamp(6px, 0.8vw, 8px);
+            border-radius: clamp(4px, 0.5vw, 6px);
+            margin: clamp(6px, 0.8vw, 8px) 0;
+            /* 继承两端对齐 */
+            text-align: justify !important;
+            text-justify: inter-ideograph !important;
+        }
+
+        /* 链接样式 - 移动端取消hover背景 */
         a {
-            color: #0a0b6f;
+            color: var(--primary-color);
             text-decoration: none;
-            border-bottom: 1px dotted #0a0b6f;
+            border-bottom: 1px dotted var(--primary-color);
+            transition: all 0.3s ease;
         }
 
         a:hover {
             color: #2a2b9f;
             border-bottom: 1px solid #2a2b9f;
+            /* 仅在非移动端显示hover背景 */
+            @media (min-width: 768px) {
+                background-color: #f0f2f8;
+                padding: 2px 4px;
+                border-radius: 2px;
+            }
         }
 
-        /* 表格样式 */
+        /* 表格样式 - 深度响应式优化 */
+        .skills-table-wrapper {
+            width: 100%;
+            overflow-x: auto; /* 横向滚动适配小屏幕 */
+            -webkit-overflow-scrolling: touch; /* 移动端顺滑滚动 */
+            margin: clamp(20px, 2vw, 25px) 0;
+            border-radius: clamp(6px, 0.8vw, 8px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+        }
+
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
-            overflow-x: auto;
-            display: block;
-        }
-
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px 15px;
-            text-align: center;
+            min-width: 600px; /* 保证表格最小宽度，小屏幕可滚动 */
         }
 
         th {
-            background-color: #f0f2f8;
-            color: #0a0b6f;
+            background: linear-gradient(180deg, var(--primary-color) 0%, #1a1b8f 100%);
+            color: white;
             font-weight: 600;
+            padding: clamp(12px, 1.2vw, 15px);
+            text-align: center;
+            border: none;
+            font-size: clamp(0.95em, 1.1vw, 1.05em);
+        }
+
+        td {
+            border: 1px solid #e2e8f0;
+            padding: clamp(10px, 1.2vw, 14px) clamp(8px, 1vw, 15px);
+            text-align: center;
+            font-size: clamp(0.9em, 1.1vw, 1.02em);
         }
 
         tr:nth-child(even) {
-            background-color: #f8f9fc;
+            background-color: #fafbff;
         }
 
         tr:hover {
-            background-color: #eef0f8;
+            background-color: #eef2ff;
+            /* 移动端取消hover缩放，避免布局抖动 */
+            @media (min-width: 768px) {
+                transform: scale(1.005);
+            }
         }
 
         /* 技能等级说明样式 */
         .skill-level-desc {
             text-indent: 0;
-            margin-bottom: 20px;
+            margin-bottom: clamp(20px, 2vw, 25px);
+            font-weight: 500;
+            color: var(--text-color);
+            background-color: #f0f2f8;
+            padding: clamp(8px, 1vw, 10px) clamp(12px, 1.2vw, 15px);
+            border-radius: clamp(4px, 0.5vw, 6px);
+            /* 强制两端对齐 */
+            text-align: justify !important;
+            text-justify: inter-ideograph !important;
         }
 
         /* 清除浮动 */
@@ -116,33 +206,87 @@
             clear: both;
         }
 
-        /* 响应式适配 - 手机端 */
-        @media (max-width: 768px) {
-            .cv-container {
-                padding: 20px;
-            }
+        /* 强调文本样式 */
+        b {
+            color: var(--primary-color);
+        }
 
+        /* 响应式断点设计 - 覆盖全设备尺寸 */
+        /* 大屏显示器 (1200px+) */
+        @media (min-width: 1200px) {
+            body {
+                padding: 2rem;
+            }
+        }
+
+        /* 平板横屏 (992px - 1199px) */
+        @media (max-width: 1199px) {
+            :root {
+                --container-padding: 35px;
+            }
+            .profile-img {
+                max-height: 250px;
+            }
+        }
+
+        /* 平板竖屏 (768px - 991px) */
+        @media (max-width: 991px) {
+            :root {
+                --container-padding: 25px;
+            }
+            .profile-img {
+                max-height: 220px;
+            }
+            /* 平板端仍保持两端对齐，仅调整换行逻辑 */
+            p {
+                word-break: break-all;
+            }
+        }
+
+        /* 普通手机 (480px - 767px) */
+        @media (max-width: 767px) {
+            :root {
+                --container-padding: 20px;
+                --base-font-size: 15px;
+            }
             .profile-img {
                 float: none;
                 display: block;
-                margin: 0 auto 20px;
-                height: 200px;
+                margin: 0 auto clamp(20px, 2vw, 25px);
+                max-height: 200px;
             }
-
             h1 {
-                font-size: 1.8em;
+                font-size: clamp(1.7em, 4vw, 1.9em);
+                margin-bottom: clamp(20px, 2.5vw, 25px);
             }
-
             h3 {
-                font-size: 1.2em;
+                font-size: clamp(1.1em, 2vw, 1.3em);
+                margin: clamp(25px, 2.5vw, 30px) 0 clamp(12px, 1.2vw, 15px);
             }
+        }
 
-            table {
-                font-size: 0.9em;
+        /* 小屏手机 (≤479px) */
+        @media (max-width: 479px) {
+            :root {
+                --container-padding: 15px;
+                --base-font-size: 14px;
             }
-
-            th, td {
-                padding: 8px 10px;
+            body {
+                padding: 0.5rem;
+            }
+            .profile-img {
+                max-height: 180px;
+            }
+            h1 {
+                font-size: clamp(1.5em, 4.5vw, 1.7em);
+            }
+            h3 {
+                font-size: clamp(1em, 2vw, 1.2em);
+                padding-left: 8px;
+                border-left-width: 3px;
+            }
+            td, th {
+                padding: 8px 6px;
             }
         }
     </style>
@@ -191,16 +335,16 @@
         <h3><b>5. Peer Reviewed Publications and Submitted Manuscripts</b></h3>    
         <p><b>(#) First authorship; (*) Senior authorship</b></p>
         <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
-        <p>[8] Andrew Shafik#*, <b>Yong Peng#</b>, Zijie Zhang, Chen Chang, Pingluan Wang, Junghwa Lim, Hongjun Song, Chuan He, Mengjie Chen* & Peng Jin*. 2026.  <a href="https://www.nature.com/articles/s41593-025-02112-z"> Multi-region m6A epitranscriptome profiling of the human brain reveals both spatial and temporal signatures and an association with disease-risk genes. </a>  Nature Neuroscience, 29(1):195-205.   <a href="https://pubmed.ncbi.nlm.nih.gov/41366183/">PMID: 41366183</a></p>
-        <p>[7] Xiao Jiang#, Chu Xu#, Enzhuo Yang#, Danhua Xu#, <b>Yong Peng#</b>, Zhuo Liu, Qinxin Shao, Xue Han, Qiuxiao Chen, Weizhi He, Shuang He, Yanhui Xu, Chuan He, Xinxin Huang* & Lulu Hu*. 2025.  <a href="https://doi.org/10.1093/procel/pwaf079"> Deciphering the RNA Landscapes on Mammalian Cell Surfaces. </a>  Protein & Cell.   <a href="https://pubmed.ncbi.nlm.nih.gov/40973153/">PMID: 40973153</a></p>
-        <p>[6] <b>Yong Peng#</b>, Jason Karpus#, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2025.  <a href="https://onlinelibrary.wiley.com/doi/10.1002/cac2.12606"> Epigenomic exploration of disease status of EGFR-mutated non-small cell lung cancer using plasma cell-free DNA hydroxymethylomes. </a>  Cancer Communications, 45(1):51-55.   <a href="https://pubmed.ncbi.nlm.nih.gov/39527101/">PMID: 39527101</a></p>
-        <p>[5] <b>Yong Peng#</b>, Hanzhe Meng#, Ruiqi Ge#, Shun Liu#, Mengjie Chen, Chuan He* & Lulu Hu*. 2022. 
+        <p class="publication-highlight">[8] Andrew Shafik#*, <b>Yong Peng#</b>, Zijie Zhang, Chen Chang, Pingluan Wang, Junghwa Lim, Hongjun Song, Chuan He, Mengjie Chen* & Peng Jin*. 2026.  <a href="https://www.nature.com/articles/s41593-025-02112-z"> Multi-region m6A epitranscriptome profiling of the human brain reveals both spatial and temporal signatures and an association with disease-risk genes. </a>  Nature Neuroscience, 29(1):195-205.   <a href="https://pubmed.ncbi.nlm.nih.gov/41366183/">PMID: 41366183</a></p>
+        <p class="publication-highlight">[7] Xiao Jiang#, Chu Xu#, Enzhuo Yang#, Danhua Xu#, <b>Yong Peng#</b>, Zhuo Liu, Qinxin Shao, Xue Han, Qiuxiao Chen, Weizhi He, Shuang He, Yanhui Xu, Chuan He, Xinxin Huang* & Lulu Hu*. 2025.  <a href="https://doi.org/10.1093/procel/pwaf079"> Deciphering the RNA Landscapes on Mammalian Cell Surfaces. </a>  Protein & Cell.   <a href="https://pubmed.ncbi.nlm.nih.gov/40973153/">PMID: 40973153</a></p>
+        <p class="publication-highlight">[6] <b>Yong Peng#</b>, Jason Karpus#, Jyoti D. Patel, Everett E. Vokes, Marina Chiara Garassino, Zhou Zhang, Wei Zhang, Mengjie Chen, Chuan He*, Christine M. Bestvina*. 2025.  <a href="https://onlinelibrary.wiley.com/doi/10.1002/cac2.12606"> Epigenomic exploration of disease status of EGFR-mutated non-small cell lung cancer using plasma cell-free DNA hydroxymethylomes. </a>  Cancer Communications, 45(1):51-55.   <a href="https://pubmed.ncbi.nlm.nih.gov/39527101/">PMID: 39527101</a></p>
+        <p class="publication-highlight">[5] <b>Yong Peng#</b>, Hanzhe Meng#, Ruiqi Ge#, Shun Liu#, Mengjie Chen, Chuan He* & Lulu Hu*. 2022. 
         <a href="https://www.sciencedirect.com/science/article/pii/S2666166722005573"> Detection of m6A RNA modifications at single-nucleotide resolution using m6A-selective allyl chemical labeling and sequencing. </a>  STAR Protocols, 3(4), 101677. <a href="https://pubmed.ncbi.nlm.nih.gov/36112507/">PMID: 36112507</a></p>
-        <p>[4] Lulu Hu#, Shun Liu#, <b>Yong Peng#</b>, Ruiqi Ge#, Rui Su#, Chamara Senevirathne, Bryan T. Harada, Qing Dai, Jiangbo Wei, Lisheng Zhang, Ziyang Hao, Liangzhi Luo, Huanyu Wang, Yuru Wang, Minkui Luo, Mengjie Chen*, Jianjun Chen* & Chuan He*. 2022. <a href="https://www.nature.com/articles/s41587-022-01243-z"> m6A RNA modifications are measured at single-base resolution across the mammalian transcriptome. </a>  Nature Biotechnology. <a href="https://pubmed.ncbi.nlm.nih.gov/35288668/">PMID: 35288668</a></p>
-        <p>[3] Siming Kong#, <b>Yong Peng#</b>, Wei Chen#, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.234"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine, 10(8): e234. <a href="https://pubmed.ncbi.nlm.nih.gov/33377650/">PMID: 33377650</a></p>
-        <p>[2] Wei Chen#, <b>Yong Peng#</b>, Xinyi Ma#, Siming Kong, Shuangyan Tan,Yuan Wei,Yangyu Zhao, Wenxin Zhang, Yang
+        <p class="publication-highlight">[4] Lulu Hu#, Shun Liu#, <b>Yong Peng#</b>, Ruiqi Ge#, Rui Su#, Chamara Senevirathne, Bryan T. Harada, Qing Dai, Jiangbo Wei, Lisheng Zhang, Ziyang Hao, Liangzhi Luo, Huanyu Wang, Yuru Wang, Minkui Luo, Mengjie Chen*, Jianjun Chen* & Chuan He*. 2022. <a href="https://www.nature.com/articles/s41587-022-01243-z"> m6A RNA modifications are measured at single-base resolution across the mammalian transcriptome. </a>  Nature Biotechnology. <a href="https://pubmed.ncbi.nlm.nih.gov/35288668/">PMID: 35288668</a></p>
+        <p class="publication-highlight">[3] Siming Kong#, <b>Yong Peng#</b>, Wei Chen#, Xinyi Ma,Yuan Wei, Yangyu Zhao, Rong Li, Jie Qiao*, Liying Yan*. 2020. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ctm2.234"> Epigenetic Consequences of Hormonal Interactions between Opposite-sex Twin Fetuses. </a>  Clinical and Translational Medicine, 10(8): e234. <a href="https://pubmed.ncbi.nlm.nih.gov/33377650/">PMID: 33377650</a></p>
+        <p class="publication-highlight">[2] Wei Chen#, <b>Yong Peng#</b>, Xinyi Ma#, Siming Kong, Shuangyan Tan,Yuan Wei,Yangyu Zhao, Wenxin Zhang, Yang
         Wang*, Liying Yan*, Jie Qiao*. 2020. <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(20)30452-7/fulltext"> Integrated Multi-omics Reveal Epigenomic Disturbance of Assisted Reproductive Technologies in Human Offspring. </a>  eBioMedicine, 61, 103076. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7585147/">PMID:33099088</a></p>
-        <p>[1] Shanshan Ai#, <b>Yong Peng#</b>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. 2017. 
+        <p class="publication-highlight">[1] Shanshan Ai#, <b>Yong Peng#</b>, Chen Li, Fei Gu, Xianhong Yu, Yanzhu Yue, Qing Ma, Jinghai Chen, Zhiqiang Lin, Pingzhu Zhou, Huafeng Xie, Terence W Prendiville, Wen Zheng,Yuli Liu, Stuart H Orkin, Da-Zhi Wang, Jia Yu,William T Pu*, Aibin He*. 2017. 
         <a href="https://elifesciences.org/content/6/e24570">
         EED orchestration of heart maturation through interaction with HDACs is H3K27me3-independent. </a>   
         eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/">PMID:28394251</a></p>
@@ -239,118 +383,120 @@
         <h3><b>7. Skills</b></h3>  
         <p class="skill-level-desc"><b>7 Levels from Newbie 1 to God Level 7:</b><br> 1:Newbie, &nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp; 6:Top 10 Experts, &nbsp;  7:God Level (Surpassing human's limit).</p>         
 
-        <table> 
-            <tr>              
-                <th> Skill </th>
-                <th> Level </th> 
-                <th>  </th>
-                <th> Skill </th>
-                <th> Level </th>   
-                <th>  </th>
-                <th> Skill </th>
-                <th> Level </th> 
-            </tr>     
-            <tr>
-                <td> Python </td>
-                <td> 3 </td>
-                <th>  </th>
-                <td> Mojo </td>
-                <td> 1 </td>
-                <th>  </th>
-                <td> Snakemake/Containers/Anaconda </td>
-                <td> 2 </td>
-            </tr>  
-            <tr>
-                <td> R </td>
-                <td> 4 </td>
-                <th>  </th>
-                <td> Julia </td>
-                <td> 1 </td>
-                <th>  </th>
-                <td> SQL and noSQL </td>
-                <td> 1 </td>
-            </tr>
-            <tr>
-                <td> Perl </td>
-                <td> 4 </td>
-                <th>  </th>
-                <td> Linux Bash Shell </td>
-                <td> 3 </td>
-                <th>  </th>
-                <td> Markup Languages </td>
-                <td> 1 </td>
-            </tr>
-            <tr>
-                <td> C </td>
-                <td> 2 </td>
-                <th>  </th>
-                <td> C++ </td>
-                <td> 1 </td>
-                <th>  </th>
-                <td> Go </td>
-                <td> 2 </td>
-            </tr>
-            <tr>
-                <td>  </td>
-                <td>  </td>
-                <th>  </th>
-                <td>  </td>
-                <td>  </td>
-                <th>  </th>
-                <td>  </td>
-                <td>  </td>
-            </tr>
-            <tr>
-                <td> Statistics </td>
-                <td> 3 </td>
-                <th>  </th>
-                <td> Statistical Physics </td>
-                <td> 2 </td>
-                <th>  </th>
-                <td> Molecular Simulation </td>
-                <td> 1 </td>
-            </tr>
-            <tr>
-                <td> Complex Networks </td>
-                <td> 2 </td>
-                <th>  </th>
-                <td> Nonlinear Dynamics </td>
-                <td> 1 </td>
-                <th>  </th>
-                <td> Systems Biology </td>
-                <td> 2 </td>
-            </tr>
-            <tr>
-                <td> Machine Learning </td>
-                <td> 2 </td>
-                <th>  </th>
-                <td> Deep Neural Networks </td>
-                <td> 1 </td>
-                <th>  </th>
-                <td> Artificial Intelligence </td>
-                <td> 1 </td>
-            </tr>
-            <tr>
-                <td> Bioinformatics </td>
-                <td> 4 </td>
-                <th>  </th>
-                <td> Epigenetics </td>
-                <td> 3 </td>
-                <th>  </th>
-                <td> Population and Quantitative Genetics </td>
-                <td> 2 </td>
-            </tr>
-            <tr>
-                <td> Biology </td>
-                <td> 3 </td>
-                <th>  </th>
-                <td> English </td>
-                <td> 3 </td>
-                <th>  </th>
-                <td> TCM </td>
-                <td> 2 </td>
-            </tr>
-        </table>                                 
+        <div class="skills-table-wrapper">
+            <table> 
+                <tr>              
+                    <th> Skill </th>
+                    <th> Level </th> 
+                    <th>  </th>
+                    <th> Skill </th>
+                    <th> Level </th>   
+                    <th>  </th>
+                    <th> Skill </th>
+                    <th> Level </th> 
+                </tr>     
+                <tr>
+                    <td> Python </td>
+                    <td> 3 </td>
+                    <th>  </th>
+                    <td> Mojo </td>
+                    <td> 1 </td>
+                    <th>  </th>
+                    <td> Snakemake/Containers/Anaconda </td>
+                    <td> 2 </td>
+                </tr>  
+                <tr>
+                    <td> R </td>
+                    <td> 4 </td>
+                    <th>  </th>
+                    <td> Julia </td>
+                    <td> 1 </td>
+                    <th>  </th>
+                    <td> SQL and noSQL </td>
+                    <td> 1 </td>
+                </tr>
+                <tr>
+                    <td> Perl </td>
+                    <td> 4 </td>
+                    <th>  </th>
+                    <td> Linux Bash Shell </td>
+                    <td> 3 </td>
+                    <th>  </th>
+                    <td> Markup Languages </td>
+                    <td> 1 </td>
+                </tr>
+                <tr>
+                    <td> C </td>
+                    <td> 2 </td>
+                    <th>  </th>
+                    <td> C++ </td>
+                    <td> 1 </td>
+                    <th>  </th>
+                    <td> Go </td>
+                    <td> 2 </td>
+                </tr>
+                <tr>
+                    <td>  </td>
+                    <td>  </td>
+                    <th>  </th>
+                    <td>  </td>
+                    <td>  </td>
+                    <th>  </th>
+                    <td>  </td>
+                    <td>  </td>
+                </tr>
+                <tr>
+                    <td> Statistics </td>
+                    <td> 3 </td>
+                    <th>  </th>
+                    <td> Statistical Physics </td>
+                    <td> 2 </td>
+                    <th>  </th>
+                    <td> Molecular Simulation </td>
+                    <td> 1 </td>
+                </tr>
+                <tr>
+                    <td> Complex Networks </td>
+                    <td> 2 </td>
+                    <th>  </th>
+                    <td> Nonlinear Dynamics </td>
+                    <td> 1 </td>
+                    <th>  </th>
+                    <td> Systems Biology </td>
+                    <td> 2 </td>
+                </tr>
+                <tr>
+                    <td> Machine Learning </td>
+                    <td> 2 </td>
+                    <th>  </th>
+                    <td> Deep Neural Networks </td>
+                    <td> 1 </td>
+                    <th>  </th>
+                    <td> Artificial Intelligence </td>
+                    <td> 1 </td>
+                </tr>
+                <tr>
+                    <td> Bioinformatics </td>
+                    <td> 4 </td>
+                    <th>  </th>
+                    <td> Epigenetics </td>
+                    <td> 3 </td>
+                    <th>  </th>
+                    <td> Population and Quantitative Genetics </td>
+                    <td> 2 </td>
+                </tr>
+                <tr>
+                    <td> Biology </td>
+                    <td> 3 </td>
+                    <th>  </th>
+                    <td> English </td>
+                    <td> 3 </td>
+                    <th>  </th>
+                    <td> TCM </td>
+                    <td> 2 </td>
+                </tr>
+            </table>
+                           
 
 
         <div class="footer">
