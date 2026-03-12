@@ -331,13 +331,13 @@
         <br>
         <hr>
         <h2><b>3. Experience</b></h2> 
-        <p>2025.07~now,  &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ <a href="https://www.cdutcm.edu.cn/">  Chengdu University of Traditional Chinese Medicine </a> , Chengdu, China.</p>
+        <p>2025.07~now, &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ <a href="https://www.cdutcm.edu.cn/">  Chengdu University of Traditional Chinese Medicine </a> , Chengdu, China.</p>
         
-        <p>2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ <a href="https://www.fudan.edu.cn/en/"> Fudan University </a>, Shanghai, China.</p>
+        <p>2025.02~2025.04, &nbsp; Assistant Researcher,  Cancer Research Center @ <a href="https://www.fudan.edu.cn/en/"> Fudan University </a>, Shanghai, China.</p>
         
-        <p>2019.12~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA.</p>
+        <p>2019.12~2025.01, &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA.</p>
         
-        <p>2019.02~2019.11,  &nbsp; <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China.</p>                     
+        <p>2019.02~2019.11, &nbsp; <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China.</p>                     
 
 
 
@@ -535,9 +535,10 @@
 
 
         <div class="footer">
+            <br>
             <hr>
             <hr>
-            <p>&nbsp;&nbsp;&nbsp;</p> End! 没了！
+            &nbsp;&nbsp;  End! 没了！
             <hr>
             <hr>
         </div>
