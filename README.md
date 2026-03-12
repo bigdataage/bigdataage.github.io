@@ -307,6 +307,8 @@
         <p>GitHub: <a href="https://github.com/CTLife"> https://github.com/CTLife </a></p> 
         <p>ORCID:  <a href="https://orcid.org/0000-0003-3405-8836">  https://orcid.org/0000-0003-3405-8836 </a></p>
 
+
+        <hr>
         <h3><b>2. Research Interests</b></h3>
         <p>The <b> epigenetic regulatory network </b> (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from <b> Chinese Materia Medica </b> (CMM) and medicinal natural products.</p>
         <p>(1)	<b> ERN in Aging and Aging-related Diseases </b></p>                
@@ -318,12 +320,16 @@
         <p>(4)	<b> ERN in Liquid Biopsy </b></p>                    
         <p>Develop novel liquid biopsy strategies by integrating cell-free epitranscriptome and epigenome for early diagnosis and detection of aging-related diseases, thereby providing a molecular foundation for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
 
+
+        <hr>
         <h3><b>3. Experience</b></h3> 
         <p>2025.07~now,  &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ <a href="https://www.cdutcm.edu.cn/">  Chengdu University of Traditional Chinese Medicine </a> , Chengdu, China.</p>
         <p>2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ <a href="https://www.fudan.edu.cn/en/"> Fudan University </a>, Shanghai, China.</p>
         <p>2019.12~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA.</p>
         <p>2019.02~2019.11,  &nbsp; <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China.</p>                     
 
+
+        <hr>
         <h3><b>4. Education</b></h3>
         <p>Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/en/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab)</p> 
         <p>M. Sc., &nbsp; 2010.09~2013.06,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, Hohhot, China.</p>
@@ -332,6 +338,8 @@
         <p>M. Sc. thesis (Chinese):Predicting subnuclear location of proteins and subcellular location of ncRNAs based on multi-information fusion and multi-label ensemble classifier. @ <a href="https://wlxy.imu.edu.cn/info/1029/4019.htm"> Qianzhong Li Group </a>.</p>  
         <p>B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ <a href="https://xueshu.baidu.com/scholarID/CN-BR7321PJ"> Tao Jin Group </a>.</p>
 
+
+        <hr>
         <h3><b>5. Peer Reviewed Publications and Submitted Manuscripts</b></h3>    
         <p><b>(#) First authorship; (*) Senior authorship</b></p>
         <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
@@ -376,6 +384,8 @@
         PreDNA: accurate prediction of DNA-binding sites in proteins by integrating sequence and geometric structure information. </a>
         Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23335013">PMID:23335013</a></p>
 
+
+        <hr>
         <h3><b>6. Blog</b></h3>                                                                         
         <p>English Blog: <a href="http://yongpeng.org"> http://yongpeng.org </a></p>               
         <p>Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage"> http://blog.sciencenet.cn/u/bigdataage </a></p>       
@@ -496,7 +506,6 @@
                     <td> 2 </td>
                 </tr>
             </table>
-                           
 
 
         <div class="footer">
