@@ -5,14 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Yong Peng's CV</title>
     <style>
+        * {
+            box-sizing: border-box;
+        }
+        
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 0;
-            padding: 20px;
+            padding: 0;
             background-color: #f9f9f9;
             color: #333;
         }
+        
         .container {
             max-width: 1000px;
             margin: 0 auto;
@@ -20,7 +25,10 @@
             padding: 30px;
             box-shadow: 0 0 15px rgba(0,0,0,0.1);
             border-radius: 8px;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
+        
         h1 {
             color: #0a0b6f;
             text-align: center;
@@ -28,87 +36,111 @@
             border-bottom: 2px solid #0a0b6f;
             padding-bottom: 10px;
         }
+        
         .header {
             display: flex;
-            align-items: center;
+            align-items: flex-start;
             justify-content: space-between;
             margin-bottom: 30px;
             flex-wrap: wrap;
         }
+        
         .info {
             flex: 1;
             min-width: 300px;
+            padding-right: 20px;
         }
+        
         .image-container {
             flex-shrink: 0;
-            margin-left: 20px;
+            margin-top: 30px; /* Move image down */
         }
+        
         img {
             height: 250px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
+        
         h3 {
             color: #0a0b6f;
             border-bottom: 1px solid #ddd;
             padding-bottom: 5px;
             margin-top: 30px;
         }
+        
         p {
             margin: 10px 0;
             padding-left: 20px;
+            text-align: justify; /* Justify text alignment */
         }
+        
         .highlight {
             background-color: #f0f8ff;
             padding: 15px;
             border-left: 4px solid #0a0b6f;
             margin: 15px 0;
+            text-align: justify; /* Justify text alignment */
         }
+        
         table {
             width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
+            text-align: left;
         }
+        
         th, td {
             border: 1px solid #ccc;
             padding: 10px;
             text-align: center;
         }
+        
         th {
             background-color: #eef4ff;
             color: #0a0b6f;
         }
+        
         tr:nth-child(even) {
             background-color: #f9f9f9;
         }
+        
         a {
             color: #0a0b6f;
             text-decoration: none;
         }
+        
         a:hover {
             text-decoration: underline;
         }
+        
         .section-title {
             color: #0a0b6f;
             font-weight: bold;
         }
+        
         .publication {
             padding: 10px 0;
             border-bottom: 1px dashed #eee;
+            text-align: justify; /* Justify text alignment */
         }
+        
         .publication:last-child {
             border-bottom: none;
         }
+        
         .skills-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 10px;
         }
+        
         .skill-item {
             display: flex;
             justify-content: space-between;
             padding: 5px 0;
         }
+        
         .footer {
             text-align: center;
             margin-top: 30px;
@@ -116,16 +148,28 @@
             border-top: 1px solid #ddd;
             color: #666;
         }
+        
         @media (max-width: 768px) {
             .header {
                 flex-direction: column;
                 text-align: center;
             }
+            
+            .info {
+                padding-right: 0;
+                margin-bottom: 20px;
+            }
+            
             .image-container {
                 margin: 20px auto;
             }
+            
             .skills-grid {
                 grid-template-columns: 1fr;
+            }
+            
+            p {
+                padding-left: 0;
             }
         }
     </style>
@@ -150,14 +194,14 @@
 
         <h3 class="section-title">2. Research Interests</h3>
         <div class="highlight">
-            <p>The <b>epigenetic regulatory network</b> (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from <b>Chinese Materia Medica</b> (CMM) and medicinal natural products.</p>
+            <p><b>The epigenetic regulatory network (ERN)</b>, characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from <b>Chinese Materia Medica (CMM)</b> and medicinal natural products.</p>
         </div>
 
         <p><b>(1) ERN in Aging and Aging-related Diseases</b></p>
         <p>Utilizing a combination of experimental and computational multi-omics methods to dissect the mechanisms of epitranscriptome-epigenome crosstalk as edges of ERN, such as interplay among RNA modifications (e.g., m6A,Ψ,m5C), DNA modifications (e.g., 5mC, 5hmC, 6mA), and histone modifications (e.g., H3K27me3,H3K27ac,H3K9me3), as well as functional roles of ERN in aging and aging-related diseases.</p>
 
         <p><b>(2) ERN in Bioactivity of CMM</b></p>
-        <p>Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of <b>traditional Chinese medicine</b> (TCM) and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases.</p>
+        <p>Explore how Chinese herbal medicines and medicinal natural products delay aging, extend lifespan and healthspan by restoring ERN homeostasis and correcting (recoding) ERN disorders in aging and aging-related diseases. To provide novel insights into the multi-component and multi-target pharmacological mechanisms of <b>traditional Chinese medicine (TCM)</b> and establish epigenetic reprogramming as a promising therapeutic strategy for delaying aging or treating aging-related diseases.</p>
 
         <p><b>(3) ERN in Biosynthesis of CMM</b></p>
         <p>Explore how ERN modulates biosynthesis of high-value active components derived from CMM and medicinal natural products. Develop large-scale plant multi-omics data analysis and AI approaches to facilitate rapid identification of unknown metabolic pathways and enzymes involved in the production of novel bioactive compounds for delaying aging and treating aging-related diseases.</p>
@@ -232,7 +276,7 @@
             <p>[7]. Hanshuang Li#,Chunshen Long#,Yan Hong, Lemuge Chao,<b>Yong Peng</b>, and Yongchun Zuo*. 2022. <a href="https://www.mdpi.com/1422-0067/23/3/1567">The Cumulative Formation of R-loop Interacts with Histone Modifications to Shape Cell Reprogramming.</a> International Journal of Molecular Sciences, 23(3):1567. <a href="https://pubmed.ncbi.nlm.nih.gov/35163490/">PMID:35163490</a></p>
         </div>
         <div class="publication">
-            <p>[6]. Zhiqiang Yan#, Jianting An#, <b>Yong Peng</b>, Siming Kong, Qiang Liu, Ming Yang, Qilong He, Shi Song, Yidong Chen, Wei Chen, Rong Li, Jie Qiao*, Liying Yan*. 2021. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab208/6294163?redirectedFrom=fulltext">DevOmics: an integrated multi-omics database of human and mouse early embryo.</a> Briefings in Bioinformatics, bbab208. <a href="https://pubmed.ncbi.nlm.nih.gov/34097004/">PMID:34097004</a></p>
+            <p>[6]. Zhiqiang Yan#, Jianting An#, <b>Yong Peng</b>, Siming Kong, Qilong He, Shi Song, Yidong Chen, Wei Chen, Rong Li, Jie Qiao*, Liying Yan*. 2021. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab208/6294163?redirectedFrom=fulltext">DevOmics: an integrated multi-omics database of human and mouse early embryo.</a> Briefings in Bioinformatics, bbab208. <a href="https://pubmed.ncbi.nlm.nih.gov/34097004/">PMID:34097004</a></p>
         </div>
         <div class="publication">
             <p>[5]. Chengchuan Ma, Rong Niu, Tianxiao Huang, Li-Wa Shao, <b>Yong Peng</b>, Wanqiu Ding, Ye Wang, Guifang Jia, Chuan He, Chuan-Yun Li, Aibin He, and Ying Liu*. 2018. <a href="https://www.nature.com/articles/s41556-018-0238-5">N6-methyldeoxyadenine is a transgenerational epigenetic signal for mitochondrial stress adaptation.</a> Nature Cell Biology, 21(3):319-327. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30510156">PMID:30510156</a></p>
