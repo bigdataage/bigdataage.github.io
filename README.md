@@ -299,7 +299,7 @@
              class="profile-img" 
              alt="Yong Peng's photo"/>   
 
-        <h3><b>1. About Me</b></h3>   
+        <h2><b>1. About Me</b></h2>   
         <p>Full Name: Yong Peng (彭勇)</p>
         <p>Place of Birth: <a href="https://en.wikipedia.org/wiki/Yibin"> Yibin </a> of <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a> Province, <a href="https://en.wikipedia.org/wiki/China"> P. R. China. </a></p>
         <p>Citizenship: China</p>
@@ -308,8 +308,10 @@
         <p>ORCID:  <a href="https://orcid.org/0000-0003-3405-8836">  https://orcid.org/0000-0003-3405-8836 </a></p>
 
 
+
+        <br>
         <hr>
-        <h3><b>2. Research Interests</b></h3>
+        <h2><b>2. Research Interests</b></h2>
         <p>The <b> epigenetic regulatory network </b> (ERN), characterized by the intricate and dynamic crosstalk among epigenomes and epitranscriptomes, plays a crucial role in precisely regulating spatiotemporal gene expression, which is fundamental for cellular division, differentiation, and senescence. The ERN also serves as a fundamental and multifunctional interface that integrates environmental signals with intrinsic genetic programs. Therefore, the ERN disorders are considered as a primary cause of aging and can be reversed or slowed through therapeutic interventions. My research mainly focuses on ERN dysregulation in aging and aging-related diseases, alongside epigenetic mechanisms governing the biosynthesis and bioactivity of active components derived from <b> Chinese Materia Medica </b> (CMM) and medicinal natural products.</p>
         <p>(1)	<b> ERN in Aging and Aging-related Diseases </b></p>                
         <p>Utilizing a combination of experimental and computational multi-omics methods to dissect the mechanisms of epitranscriptome-epigenome crosstalk as edges of ERN, such as interplay among RNA modifications (e.g., m6A,Ψ,m5C), DNA modifications (e.g., 5mC, 5hmC, 6mA), and histone modifications (e.g., H3K27me3,H3K27ac,H3K9me3), as well as functional roles of ERN in aging and aging-related diseases.</p> 
@@ -321,16 +323,22 @@
         <p>Develop novel liquid biopsy strategies by integrating cell-free epitranscriptome and epigenome for early diagnosis and detection of aging-related diseases, thereby providing a molecular foundation for the concept of evidence-based medicine and the characteristics of precision medicine in TCM.</p>  
 
 
+
+
+        <br>
         <hr>
-        <h3><b>3. Experience</b></h3> 
+        <h2><b>3. Experience</b></h2> 
         <p>2025.07~now,  &nbsp; Associate Professor,  Innovative Institute of Chinese Medicine and Pharmacy, Institute of Herbgenomics @ <a href="https://www.cdutcm.edu.cn/">  Chengdu University of Traditional Chinese Medicine </a> , Chengdu, China.</p>
         <p>2025.02~2025.04,  &nbsp; Assistant Researcher,  Cancer Research Center @ <a href="https://www.fudan.edu.cn/en/"> Fudan University </a>, Shanghai, China.</p>
         <p>2019.12~2025.01,  &nbsp; Postdoctoral Researcher, <a href="http://he-group.uchicago.edu/"> Chuan He Group </a> @ Department of Chemistry, and <a href="http://www.mengjiechen.com/"> Mengjie Chen Group </a> @ Department of Medicine, <a href="https://www.uchicago.edu/">The University of Chicago</a>, Chicago, IL 60637, USA.</p>
         <p>2019.02~2019.11,  &nbsp; <a href="http://www.cls.edu.cn/info/1263/1105.htm"> Jie Qiao Group </a> @ Peking University Third Hospital, Beijing, China.</p>                     
 
 
+
+
+        <br>
         <hr>
-        <h3><b>4. Education</b></h3>
+        <h2><b>4. Education</b></h2>
         <p>Ph. D., &nbsp; 2013.09~2019.01,  &nbsp; Integrative Life Sciences,  &nbsp; <a href="http://www.cls.edu.cn/en/">Peking-Tsinghua Center for Life Sciences</a> and <a href="http://www.aais.pku.edu.cn">AAIS</a> @ <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, Beijing, China. (2013.07-2013.12 Rotation; 2014.01-2017.04 Aibin He Lab; 2017.05-2019.01 Jie Qiao Lab)</p> 
         <p>M. Sc., &nbsp; 2010.09~2013.06,  &nbsp; Physics,  &nbsp; <a href="http://wlxy.imu.edu.cn/"> School of Physical Science and Technology</a> @ <a href="https://en.wikipedia.org/wiki/Inner_Mongolia_University">Inner Mongolia University</a>, Hohhot, China.</p>
         <p>B. Sc., &nbsp; 2006.09~2010.06,  &nbsp; Biotechnology,  &nbsp; School of Life Sciences @ <a href="https://en.wikipedia.org/wiki/Heilongjiang_University">Heilongjiang University</a>, Haerbin, China.</p>  
@@ -338,9 +346,9 @@
         <p>M. Sc. thesis (Chinese):Predicting subnuclear location of proteins and subcellular location of ncRNAs based on multi-information fusion and multi-label ensemble classifier. @ <a href="https://wlxy.imu.edu.cn/info/1029/4019.htm"> Qianzhong Li Group </a>.</p>  
         <p>B. Sc. thesis (Chinese): Optimize the nitrogen sources of a red pigment-producing strain for generating more pigments. @ <a href="https://xueshu.baidu.com/scholarID/CN-BR7321PJ"> Tao Jin Group </a>.</p>
 
-
+        <br>
         <hr>
-        <h3><b>5. Peer Reviewed Publications and Submitted Manuscripts</b></h3>    
+        <h2><b>5. Peer Reviewed Publications and Submitted Manuscripts</b></h2>    
         <p><b>(#) First authorship; (*) Senior authorship</b></p>
         <p><b style = "color:#0a0b6f"> Selected publications: </b></p> 
         <p class="publication-highlight">[8] Andrew Shafik#*, <b>Yong Peng#</b>, Zijie Zhang, Chen Chang, Pingluan Wang, Junghwa Lim, Hongjun Song, Chuan He, Mengjie Chen* & Peng Jin*. 2026.  <a href="https://www.nature.com/articles/s41593-025-02112-z"> Multi-region m6A epitranscriptome profiling of the human brain reveals both spatial and temporal signatures and an association with disease-risk genes. </a>  Nature Neuroscience, 29(1):195-205.   <a href="https://pubmed.ncbi.nlm.nih.gov/41366183/">PMID: 41366183</a></p>
@@ -358,7 +366,8 @@
         eLife, 6:e24570. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400508/">PMID:28394251</a></p>
 
                                   
-        <hr>
+        <br>
+        <br>
         <p><b style = "color:#0a0b6f"> Other publications: </b></p> 
         <p>[13]. Alex Wardale, <b>Yong Peng</b>, Ruiqi Ge, Tor Erik Jørgensen, Steinar Daae Johansen, Chuan He & Igor Babiak. 2026.  Single-nucleotide resolution mapping of m6A of zebrafish mRNAs in early embryonic development links m6A modifications to the maternal-to-zygotic transition.  (Available on bioRXiv, doi: <a href="https://doi.org/10.1101/2025.11.19.688951"> https://doi.org/10.1101/2025.11.19.688951 </a> )</p> 
         <p>[12]. Daniel A. Kuppers, Sonali Arora, Cindy L. Wladyka, Ruiqi Ge, Shun Liu, <b>Yong Peng</b>, Rui Su, Anne Wilhite, Jianjun Chen, Chuan He, Andrew C. Hsieh & Patrick J. Paddison. 2026.  N6-methyladenosine regulation of mRNA translation is essential for early human erythropoiesis.  (Available on bioRXiv, doi: <a href="https://doi.org/10.1101/2025.11.10.687731"> https://doi.org/10.1101/2025.11.10.687731 </a> )</p> 
@@ -386,13 +395,15 @@
         PreDNA: accurate prediction of DNA-binding sites in proteins by integrating sequence and geometric structure information. </a>
         Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23335013">PMID:23335013</a></p>
 
-
+        <br>
         <hr>
-        <h3><b>6. Blog</b></h3>                                                                         
-        <p>English Blog: <a href="http://yongpeng.org"> http://yongpeng.org </a></p>               
+        <h2><b>6. Blog</b></h2>                   
+        <p>English Blog: <a href="http://yongpeng.org"> http://yongpeng.org </a></p>      
         <p>Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage"> http://blog.sciencenet.cn/u/bigdataage </a></p>       
 
-        <h3><b>7. Skills</b></h3>  
+        <br>
+        <hr>
+        <h2><b>7. Skills</b></h2>  
         <p class="skill-level-desc"><b>7 Levels from Newbie 1 to God Level 7:</b><br> 1:Newbie, &nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp; 6:Top 10 Experts, &nbsp;  7:God Level (Surpassing human's limit).</p>         
 
         <div class="skills-table-wrapper">
@@ -513,7 +524,7 @@
         <div class="footer">
             <hr>
             <hr>
-            End! 没了！
+            &emsp End! 没了！
             <hr>
             <hr>
         </div>
