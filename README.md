@@ -52,8 +52,8 @@
         
         .image-container {
             flex-shrink: 0;
-            margin-top: 180px; /* Move image down */
-            margin-left: 500px; /* 左边距让图片更靠左 */
+            margin-top: 200px; /* Move image down */
+            margin-left: 300px; /* 左边距让图片更靠左 */
         }
         
         img {
