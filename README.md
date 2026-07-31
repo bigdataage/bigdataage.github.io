@@ -407,9 +407,9 @@
         <br>
         <hr>
         <h2><b>6. Summary of Major Research Findings until 2025 </b></h2>    
-        <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/summary.png" 
-             class="profile-img" 
-             alt="主要研究成果"/> 
+        <p align="center">
+        <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/summary.png"    alt="主要研究成果"/> 
+        </p>
 
 
 
