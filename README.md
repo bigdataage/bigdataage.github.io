@@ -403,15 +403,25 @@
         PreDNA: accurate prediction of DNA-binding sites in proteins by integrating sequence and geometric structure information. </a>
         Bioinformatics, 29(6):678-685.  <a href="https://www.ncbi.nlm.nih.gov/pubmed/23335013">PMID:23335013</a></p>
 
+
         <br>
         <hr>
-        <h2><b>6. Blog</b></h2>                   
+        <h2><b>6. Summary of Major Research Findings until 2025 </b></h2>    
+        <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/summary.png" 
+             class="profile-img" 
+             alt="主要研究成果"/> 
+
+
+
+        <br>
+        <hr>
+        <h2><b>7. Blog</b></h2>                   
         <p>English Blog: <a href="http://yongpeng.org"> http://yongpeng.org </a></p>      
         <p>Chinese Blog: <a href="http://blog.sciencenet.cn/u/bigdataage"> http://blog.sciencenet.cn/u/bigdataage </a></p>       
 
         <br>
         <hr>
-        <h2><b>7. Skills</b></h2>  
+        <h2><b>8. Skills</b></h2>  
         <p class="skill-level-desc"><b>7 Levels from Newbie 1 to God Level 7:</b><br> 1:Newbie, &nbsp;  2:Basic, &nbsp;  3:Familiar, &nbsp;   4:Professional, &nbsp;  5:Very Professional, &nbsp; 6:Top 10 Experts, &nbsp;  7:God Level (Surpassing human's limit).</p>         
 
         <div class="skills-table-wrapper">
