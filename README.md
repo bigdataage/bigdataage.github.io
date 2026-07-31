@@ -406,7 +406,7 @@
 
         <br>
         <hr>
-        <h2><b>6. Summary of Major Research Findings until 2025 </b></h2>    
+        <h2><b>6. Summary of Major Research Findings until June 2026 </b></h2>    
         <p align="center">
         <img src="http://github.com/bigdataage/bigdataage.github.io/raw/master/summary.png"    alt="主要研究成果"/> 
         </p>
